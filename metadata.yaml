@@ -1,0 +1,39 @@
+_repo: Repertory-of-The-Comedie-Humaine-Part-2_2469
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: McSpadden, J. Walker (Joseph Walker)
+    aliases:
+    - McSpadden, Joseph Walker
+    - Walker, Joseph
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '437'
+    url: http://www.gutenberg.org/2009/agents/437
+creator:
+  authors:
+  - agent_name: Cerfberr, Anatole
+    birthdate: 1835
+    deathdate: 1896
+    gutenberg_agent_id: '924'
+    url: http://www.gutenberg.org/2009/agents/924
+  - agent_name: Christophe, Jules François
+    alias: Christophe, Jules Francois
+    birthdate: 1840
+    gutenberg_agent_id: '925'
+    url: http://www.gutenberg.org/2009/agents/925
+description: 'Part 2: L - Z'
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balzac, Honoré de, 1799-1850. Comédie humaine'
+- !lcc 'PQ'
+- GITenberg
+title: Repertory of The Comedie Humaine, Part 2
+url: http://www.gutenberg.org/ebooks/2469
