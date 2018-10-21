@@ -1,42 +1,311 @@
-The Project Gutenberg EBook of Repertory Of The Comedie Humaine, Part II,
-L -- Z, by Anatole Cerfberr and Jules François Christophe
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+Project Gutenberg Etext of Repertory of the Comedie Humaine Pt 2
+#94 in our series by or about Honore de Balzac
 
 
-Title: Repertory Of The Comedie Humaine, Part II, L -- Z
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
 
-Author: Anatole Cerfberr and Jules François Christophe
-
-Translator: Joseph Walker McSpadden
-
-Release Date: January 29, 2006 [EBook #2469]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK REPERTORY THE COMEDIE HUMAINE, L- Z ***
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
 
 
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
 
 
-Produced by Dagny; and Emma Dudding, and John Bickers
+REPERTORY OF THE COMEDIE HUMAINE, PART II, L -- Z
+
+January, 2001  [Etext #2469]
+
+
+Project Gutenberg Etext of Repertory of the Comedie Humaine Pt 2
+******This file should be named 2469.txt or 2469.zip******
+
+
+Etext prepared by Dagny, dagnyj@hotmail.com
+Emma Dudding, emma_302@hotmail.com
+and John Bickers, jbickers@ihug.co.nz
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+We are planning on making some changes in our donation structure
+in 2000, so you might want to email me, hart@pobox.com beforehand.
 
 
 
 
 
-                  REPERTORY OF THE COMEDIE HUMAINE
-
-                          PART II, L -- Z
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 
 
 
-                                  L
+
+
+Etext prepared by Dagny, dagnyj@hotmail.com
+and Emma Dudding, emma_302@hotmail.com
+
+
+End of Project Gutenberg Etext of Repertory of the Comedie Humaine Pt 1
+
+
+
+Etext prepared by Dagny, dagnyj@hotmail.com
+Emma Dudding, emma_302@hotmail.com
+and John Bickers, jbickers@ihug.co.nz
+
+
+
+
+
+REPERTORY OF THE COMEDIE HUMAINE
+PART II, L -- Z
+
+
+
+L
 
 LA BASTIE (Monsieur, Madame and Mademoiselle de). (See Mignon.)
 
@@ -139,8 +408,8 @@ of Bohemia. Cousin Betty.]
 
 LA BERGE (De), confessor of Madame de Mortsauf at Clochegourde, strict
 and virtuous. He died in 1817, mourned on account of his "apostolic
-strength," by his patron, who appointed as his successor the
-over-indulgent Francois Birotteau. [The Lily of the Valley.]
+strength," by his patron, who appointed as his successor the over-
+indulgent Francois Birotteau. [The Lily of the Valley.]
 
 LA BERTELLIERE, father of Madame la Gaudiniere, grandfather of Madame
 Felix Grandet, was lieutenant in the French Guards; he died in 1806,
@@ -305,9 +574,9 @@ LAGOUNIA (Donna de), wife of the preceding, divided with him the care
 of Juana Marana until the girl's mother came to Tarragone at the time
 it was sacked by the French. [The Maranas.]
 
-LA GRAVE (Mesdemoiselles), kept a boarding-house in 1824 on rue
-Notre-Dame-des Champs in Paris. In this house M. and Madame Phellion
-gave lessons. [The Government Clerks.]
+LA GRAVE (Mesdemoiselles), kept a boarding-house in 1824 on rue Notre-
+Dame-des Champs in Paris. In this house M. and Madame Phellion gave
+lessons. [The Government Clerks.]
 
 LAGUERRE (Mademoiselle), given name, probably, Sophie, born in 1740,
 died in 1815, one of the most celebrated courtesans of the eighteenth
@@ -447,12 +716,12 @@ LANTIMECHE, born in 1770. In 1840, at Paris, a penniless journeyman
 locksmith and inventor, he went to the money-lender, Cerizet, on rue
 des Poules, to borrow a hundred francs. [The Middle Classes.]
 
-LANTY (Comte de), owner of an expensive mansion near the
-Elysee-Bourbon, which he had bought from the Marechal de Carigliano.
-He gave there under the Restoration some magnificent entertainments,
-at which were present the upper classes of Parisian society, ignorant,
-though they were, of the count's lineage. Lanty, who was a mysterious
-man, passed for a clever chemist. He had married the rich niece of the
+LANTY (Comte de), owner of an expensive mansion near the Elysee-
+Bourbon, which he had bought from the Marechal de Carigliano. He gave
+there under the Restoration some magnificent entertainments, at which
+were present the upper classes of Parisian society, ignorant, though
+they were, of the count's lineage. Lanty, who was a mysterious man,
+passed for a clever chemist. He had married the rich niece of the
 peculiar eunuch, Zambinella, by whom he had two children, Marianina
 and Filippo. [Sarrasine. The Member for Arcis.]
 
@@ -477,45 +746,44 @@ By his marriage, which took place under Louis Philippe, he became
 allied with the family of a German grand duke. [Sarrasine. The Member
 for Arcis.]
 
-LA PALFERINE
-(Gabriel-Jean-Anne-Victor-Benjamin-Georges-Ferdinand-Charles-Edouard-Rusticoli,
-Comte de), born in 1802; of an ancient Italian family which had become
-impoverished; grandson on the paternal side of one of the protectors
-of Josephine-Sophie Laguerre; descended indirectly from the Comtesse
-Albany--whence his given name of Charles-Edouard. He had in his veins
-the mixed blood of the condottiere and the gentleman. Under Louis
-Philippe, idle and fast going to ruin, with his Louis XIII. cast of
-countenance, his evil-minded wit, his lofty independent manners,
-insolent yet winning, he was a type of the brilliant Bohemian of the
-Boulevard de Gand; so much so, that Madame de la Baudraye, basing her
-information on points furnished her by Nathan, one day drew a picture
-of him, writing a description in which artificiality and artlessness
-were combined. In this were many interesting touches: La Palferine's
-contempt shown at all times for the bourgeois class and forms of
-government; the request for the return of his toothbrush, then in the
-possession of a deserted mistress, Antonia Chocardelle; his relations
-with Madame du Bruel, whom he laid siege to, won, and neglected--a
-yielding puppet, of whom, strange to say, he broke the heart and made
-the fortune. He lived at that time in the Roule addition, in a plain
-garret, where he was in the habit of receiving Zephirin Marcas. The
-wretchedness of his quarters did not keep La Palferine out of the
-best society, and he was the guest of Josepha Mirah at the first
-entertainment given in her house on rue de la Ville-l'Eveque. By a
-strange order of events, Comte Rusticoli became Beatrix de Rochefide's
-lover, a few years after the events just narrated, at a time when
-the Debats published a novel by him which was spoken of far and wide.
-Nathan laid the foundation for this affair. Trailles,
-Charles-Edouard's master, carried on the negotiations and brought the
-intrigue to a consummation, being urged on by the Abbe Brossette's
-assent and the Duchesse de Grandlieu's request. La Palferine's
-liaison with Madame de Rochefide effected a reconciliation between
-Calyste du Guenic and his wife. In the course of time, however,
-Comte Rusticoli deserted Beatrix and sent her back to her husband,
-Arthur de Rochefide. During the winter of 1842 La Palferine was
-attracted to Madame de Laginska, had some meetings with her, but
-failed in this affair through the intervention of Thaddee Paz. [A
-Prince of Bohemia. A Man of Business. Cousin Betty. Beatrix. The
-Imaginary Mistress.]
+LA PALFERINE (Gabriel-Jean-Anne-Victor-Benjamin-Georges-Ferdinand-
+Charles-Edouard-Rusticoli, Comte de), born in 1802; of an ancient
+Italian family which had become impoverished; grandson on the paternal
+side of one of the protectors of Josephine-Sophie Laguerre; descended
+indirectly from the Comtesse Albany--whence his given name of Charles-
+Edouard. He had in his veins the mixed blood of the condottiere and
+the gentleman. Under Louis Philippe, idle and fast going to ruin, with
+his Louis XIII. cast of countenance, his evil-minded wit, his lofty
+independent manners, insolent yet winning, he was a type of the
+brilliant Bohemian of the Boulevard de Gand; so much so, that Madame
+de la Baudraye, basing her information on points furnished her by
+Nathan, one day drew a picture of him, writing a description in which
+artificiality and artlessness were combined. In this were many
+interesting touches: La Palferine's contempt shown at all times for
+the bourgeois class and forms of government; the request for the
+return of his toothbrush, then in the possession of a deserted
+mistress, Antonia Chocardelle; his relations with Madame du Bruel,
+whom he laid siege to, won, and neglected--a yielding puppet, of whom,
+strange to say, he broke the heart and made the fortune. He lived at
+that time in the Roule addition, in a plain garret, where he was in
+the habit of receiving Zephirin Marcas. The wretchedness of his
+quarters did not keep La Palferine out of the best society, and he was
+the guest of Josepha Mirah at the first entertainment given in her
+house on rue de la Ville-l'Eveque. By a strange order of events, Comte
+Rusticoli became Beatrix de Rochefide's lover, a few years after the
+events just narrated, at a time when the Debats published a novel by
+him which was spoken of far and wide. Nathan laid the foundation for
+this affair. Trailles, Charles-Edouard's master, carried on the
+negotiations and brought the intrigue to a consummation, being urged
+on by the Abbe Brossette's assent and the Duchesse de Grandlieu's
+request. La Palferine's liaison with Madame de Rochefide effected a
+reconciliation between Calyste du Guenic and his wife. In the course
+of time, however, Comte Rusticoli deserted Beatrix and sent her back
+to her husband, Arthur de Rochefide. During the winter of 1842 La
+Palferine was attracted to Madame de Laginska, had some meetings with
+her, but failed in this affair through the intervention of Thaddee
+Paz. [A Prince of Bohemia. A Man of Business. Cousin Betty. Beatrix.
+The Imaginary Mistress.]
 
 LA PEYRADE (Charles-Marie-Theodose de), born near Avignon in 1813, one
 of eleven children of the police-agent Peyrade's youngest brother, who
@@ -607,9 +875,9 @@ Also, in November of the same year, Martial was invited to the fete
 given by Malin de Gondreville--a celebration which the Emperor was
 vainly expected to attend. Montcornet was present, also the Duchesse
 de Lansac, who succeeded in bringing about a reconciliation between
-her nephew and niece, M. and Madame de Soulanges. M. de la
-Roche-Hugon's mistress, Madame de Vaudremont, was also in attendance
-at this ball. For five years he had enjoyed a close friendship with
+her nephew and niece, M. and Madame de Soulanges. M. de la Roche-
+Hugon's mistress, Madame de Vaudremont, was also in attendance at this
+ball. For five years he had enjoyed a close friendship with
 Montcornet, and this bond was lasting. In 1815 the securing of Aigues
 for Montcornet was undertaken by Martial, who had served as prefect
 under the Empire, and retained his office under the Bourbons. Thus
@@ -625,11 +893,10 @@ one of his sisters in marriage. Several children resulted from this
 union. Martial continued to remain influential and associated with the
 popular idols of the time, M. and Madame de l'Estorade. His relations
 with the national chief of police, Corentin, in 1840, were also
-indicative of his standing. As a deputy the next year M. de la
-Roche-Hugon probably filled the directorship in the War Department,
-left vacant by Hector Hulot. [Domestic Peace. The Peasantry. A
-Daughter of Eve. The Member for Arcis. The Middle Classes. Cousin
-Betty.]
+indicative of his standing. As a deputy the next year M. de la Roche-
+Hugon probably filled the directorship in the War Department, left
+vacant by Hector Hulot. [Domestic Peace. The Peasantry. A Daughter of
+Eve. The Member for Arcis. The Middle Classes. Cousin Betty.]
 
 LA ROCHE-HUGON (Madame Martial de). (See Rastignac, Mesdemoiselles
 de.)
@@ -649,12 +916,12 @@ LARSONNIERE (M. and Madame de), formed the aristocracy of the little
 city of Saumur, of which Felix Grandet had been mayor in the years
 just previous to the First Empire. [Eugenie Grandet.]
 
-LA THAUMASSIERE (De), grandson of the Berry historian, a young
-land-owner, the dandy of Sancerre. While present in Madame de la
-Baudraye's parlor, he had the misfortune to yawn during an exposition
-which she was giving, for the fourth time, of Kant's philosophy; he
-was henceforth looked upon as a man completely lacking in
-understanding and in soul. [The Muse of the Department.]
+LA THAUMASSIERE (De), grandson of the Berry historian, a young land-
+owner, the dandy of Sancerre. While present in Madame de la Baudraye's
+parlor, he had the misfortune to yawn during an exposition which she
+was giving, for the fourth time, of Kant's philosophy; he was
+henceforth looked upon as a man completely lacking in understanding
+and in soul. [The Muse of the Department.]
 
 LATOURNELLE (Simon-Babylas), born in 1777, was notary at Havre, where
 he had bought the most extensive practice for one hundred thousand
@@ -759,9 +1026,9 @@ Philippe's reign. He was well acquainted with the Camusot de
 Marvilles, and knew Maitre Fraisier, who claimed his acquaintance in
 1845. [Cousin Pons.]
 
-LEBRUN, sub-lieutenant, then captain in the Seventy-second
-demi-brigade, commanded by Hulot during the war against the Chouans
-in 1799. [The Chouans.]
+LEBRUN, sub-lieutenant, then captain in the Seventy-second demi-
+brigade, commanded by Hulot during the war against the Chouans in
+1799. [The Chouans.]
 
 LEBRUN, division-chief in the War Department in 1838. Marneffe was one
 of his employes. [Cousin Betty.]
@@ -780,24 +1047,24 @@ Side of History.]
 
 LECHESNEAU, through the influence of Cambaceres and Bonaparte,
 appointed attorney-general in Italy, but as a result of his many
-disreputable love-affairs, despite his real capacity for
-office-holding, he was forced to give up his position. Between the
-end of the Republic and the beginning of the Empire he became head
-of the grand jury at Troyes. Lechesneau, who had been repeatedly
-bribed by Senator Malin, had to occupy himself in 1806 with the
-Hauteserre-Simeuse-Michu affair. [The Gondreville Mystery.]
+disreputable love-affairs, despite his real capacity for office-
+holding, he was forced to give up his position. Between the end of the
+Republic and the beginning of the Empire he became head of the grand
+jury at Troyes. Lechesneau, who had been repeatedly bribed by Senator
+Malin, had to occupy himself in 1806 with the Hauteserre-Simeuse-Michu
+affair. [The Gondreville Mystery.]
 
 LECLERQ, native of Bourgogne, commissioner for the vinters in the
 department to which Ville-aux-Fayes, a sub-prefecture of this same
 province, belonged. He was of service to Gaubertin, Madame Soudry,
 also Rigon, perhaps, and was in turn under obligations to them. Having
 arranged a partnership he founded the house of "Leclerq & Company," on
-Quai de Bethune, Ile Saint-Louis, Paris, in competition with the
-well-known house of Grandet. In 1815 Leclerq married Jenny Gaubertin.
-As a banker he dealt in wine commissions, and became regent of the
-National Bank. During the Restoration he represented as deputy on the
-Left Centre the district of Ville-aux-Fayes, and not far from the
-sub-prefecture, in 1823, bought a large estate, which brought thirty
+Quai de Bethune, Ile Saint-Louis, Paris, in competition with the well-
+known house of Grandet. In 1815 Leclerq married Jenny Gaubertin. As a
+banker he dealt in wine commissions, and became regent of the National
+Bank. During the Restoration he represented as deputy on the Left
+Centre the district of Ville-aux-Fayes, and not far from the sub-
+prefecture, in 1823, bought a large estate, which brought thirty
 thousand francs rental. [The Peasantry.]
 
 LECLERQ (Madame), wife of the preceding, born Jenny Gaubertin, eldest
@@ -919,7 +1186,7 @@ twenty thousand francs, saved by the strictest economy, and of a house
 which was sold for twenty-eight thousand francs. [The Middle Classes.]
 
 LEMULQUINIER, a native of Flanders, owed his name to the linen-yarn
-dealers of that province, who are called _mulquiniers_. He lived in
+dealers of that province, who are called /mulquiniers/. He lived in
 Douai, was the valet of Balthazar Claes, and encouraged and aided his
 master in his foolish investigations, despite the extreme coldness of
 his own nature and the opposition of Josette, Martha, and the women of
@@ -1174,7 +1441,7 @@ Duc de Rostein-Limbourg, executed in 1793, belonged to the younger
 branch. [The Ball at Sceaux.]
 
 LONGUEVILLE, deputy under Charles X., son of an attorney, without
-authority placed the particle _de_ before his name. M. Longueville was
+authority placed the particle /de/ before his name. M. Longueville was
 connected with the house of Palma, Werbrust & Co.; he was the father
 of Auguste, Maximilien and Clara; desired a peerage for himself and a
 minister's daughter for his elder son, who had an income of fifty
@@ -1477,7 +1744,7 @@ Start in Life.]
 
 
 
-                                  M
+M
 
 MACHILLOT (Madame), kept in Paris, in 1838, in the Notre Dame-des
 Champs neighborhood, a modest restaurant, which was patronized by
@@ -1515,9 +1782,9 @@ while employed as a domestic. [Scenes from a Courtesan's Life. Cousin
 Pons.]
 
 MADOU (Angelique), woman of the masses, fat but spry; although
-ignorant, very shrewd in her business of selling dried fruit. At
-the beginning of the Restoration she lived in Paris on rue
-Perrin-Gasselin, where she fell prey to the usurer Bidault--Gigonnet.
+ignorant, very shrewd in her business of selling dried fruit. At the
+beginning of the Restoration she lived in Paris on rue Perrin-
+Gasselin, where she fell prey to the usurer Bidault--Gigonnet.
 Angelique Madou at first dealt harshly with Cesar Birotteau, when he
 was unable to pay his debts; but she congratulated him, later on,
 when, as a result of his revived fortunes, the perfumer settled every
@@ -1538,9 +1805,9 @@ of Hermann, who was bearing her a letter from Prosper. [The Red Inn.]
 MAGUS (Elie), Flemish Jew, Dutch-Belgian descent, born in 1770. He
 lived now at Bordeaux, now at Paris; was a merchant of costly
 articles, such as pictures, diamonds and curiosities. By his influence
-Madame Luigi Porta, born Ginevra di Piombo, obtained from a
-print-seller a position as colorist. Madame Evangelista engaged him
-to estimate the value of her jewels. He bought a copy of Rubens from
+Madame Luigi Porta, born Ginevra di Piombo, obtained from a print-
+seller a position as colorist. Madame Evangelista engaged him to
+estimate the value of her jewels. He bought a copy of Rubens from
 Joseph Bridau and some Flemish subjects from Pierre Grassou, selling
 them later to Vervelli as genuine Rembrandts or Teniers; he arranged
 for the marriage of the artist with the cork-maker's daughter. Very
@@ -1711,8 +1978,8 @@ MARCHE-A-TERRE. (See Leroi, Pierre.)
 MARCILLAC (Madame de). Thanks to some acquaintances of the old regime,
 whom she had kept, and to her relationship with the Rastignacs, with
 whom she lived quietly, she found the means of introducing to Claire
-de Beauseant, Chevalier de Rastignac, her well-beloved grand-nephew
---about 1819. [Father Goriot.]
+de Beauseant, Chevalier de Rastignac, her well-beloved grand-nephew--
+about 1819. [Father Goriot.]
 
 MARCOSINI (Count Andrea), born in 1807 at Milan; although an
 aristocrat he took temporary refuge in Paris as a liberal; a wealthy
@@ -1881,7 +2148,7 @@ morally, died in May, 1842. [Cousin Betty.]
 
 MARNEFFE[*] (Madame). (See Crevel, Madame Celestin.)
 
-[*] In 1849, at Paris, Clairville produced upon the stage of the
+[*] n 1849, at Paris, Clairville produced upon the stage of the
     Gymnase-Dramatique, the episodes in the life of Madame Marneffe,
     somewhat modified, under the double title, "Madame Marneffe, or
     the Prodigal Father" (a vaudeville drama in five acts).
@@ -2028,9 +2295,8 @@ Genestas-Bluteau, and also the first to impart knowledge to him. [The
 Country Doctor.]
 
 MARTINEAU, name of two brothers employed by M. de Mortsauf in
-connection with his farms in Touraine. The elder was at first a
-farm-hand, then a steward; the younger, a warden. [The Lily of the
-Valley.]
+connection with his farms in Touraine. The elder was at first a farm-
+hand, then a steward; the younger, a warden. [The Lily of the Valley.]
 
 MARTINEAU, son of one of the two Martineau brothers. [The Lily of the
 Valley.]
@@ -2051,9 +2317,9 @@ MARY, an Englishwoman in the family of Louis de l'Estorade during the
 Restoration and under Louis Philippe. [Letters of Two Brides. The
 Member for Arcis.]
 
-MASSIN-LEVRAULT, junior, son of a poor locksmith of Montargis,
-grand-nephew of Doctor Denis Minoret, as a result of his marriage with
-a Levrault-Minoret; father of three girls, Pamela, Aline, and Madame
+MASSIN-LEVRAULT, junior, son of a poor locksmith of Montargis, grand-
+nephew of Doctor Denis Minoret, as a result of his marriage with a
+Levrault-Minoret; father of three girls, Pamela, Aline, and Madame
 Goupil. He bought the office of clerk to the justice of peace in
 Nemours, January, 1815, and lived at first with his family in the good
 graces of Doctor Minoret, through whom his sister became postmistress
@@ -2063,18 +2329,18 @@ after July, 1830, began to lend money to the laboring people at
 exorbitant rates of interest, and finally developed into a confirmed
 usurer. [Ursule Mirouet.]
 
-MASSIN-LEVRAULT (Madame), wife of the preceding, born Levrault-Minoret
-in 1793, grand-niece of Doctor Denis Minoret on the maternal side; her
-father was a victim of the campaign in France. She strove in every way
-possible to win the affections of her wealthy uncle, and was one of
-Ursule de Portenduere's persecutors. [Ursule Mirouet.]
+MASSIN-LEVRAULT (Madame), wife of the preceding, born Levrault-
+Minoret in 1793, grand-niece of Doctor Denis Minoret on the maternal
+side; her father was a victim of the campaign in France. She strove in
+every way possible to win the affections of her wealthy uncle, and was
+one of Ursule de Portenduere's persecutors. [Ursule Mirouet.]
 
 MASSOL, native of Carcassonne, licentiate in law and editor of the
 "Gazette des Tribunaux" in May, 1830. Without knowing their
 relationship he brought together Jacqueline and Jacques Collin, a
 boarder at the Concierge, and, acting under Granville's orders, in his
 journal attributed Lucien de Rubembre's suicidal death to the rupture
-of a tumor. A Republican, through the lack of the particle _de_ before
+of a tumor. A Republican, through the lack of the particle /de/ before
 his name, and very ambitious, he was, in 1834, the associate of Raoul
 Nathan in the publication of a large journal, and sought to make a
 tool of the poet-founder of this paper.  In company with Stidmann,
@@ -2205,7 +2471,7 @@ foregoing society, in making captive the celebrated deputy of the
 Right, a man of wealth and maturity, Daniel Arthez himself. In her own
 home and in that of Felicite des Touches she heard, between 1832 and
 1835, anecdotes of Marsay. The Princess de Cadignan had portraits of
-her numerous lovers. She had also one of the _Madame_ whom she had
+her numerous lovers. She had also one of the /Madame/ whom she had
 attended, and upon meeting him, showed it to Marsay, minister of Louis
 Philippe. She owned also a picture of Charles X. which was thus
 inscribed, "Given by the King." After the marriage of her son to a
@@ -2625,9 +2891,9 @@ was responsible for the saying that "Time is a great faster," quoted
 sometimes before Lucien de Rubempre in 1821-22. [A Distinguished
 Provincial at Paris.]
 
-[*] Minette married M. Marguerite; she lived in Paris during the
-    last years of her life in the large house at the corner of
-    rue Saint-Georges and rue Provence.
+[*] Minette married M. Marguerite; she lived in Paris during the last
+    years of her life in the large house at the corner of rue Saint-
+    Georges and rue Provence.
 
 MINORETS (The), representatives of the well-known "company of army
 contractors," in which Mademoiselle Sophie Laguerre's steward, who
@@ -2638,20 +2904,20 @@ supported by Galathionne and, perhaps, by the contractor, Du
 Bourguier, were connected with the Minorets, probably the army
 contractor Minorets. [The Government Clerks.]
 
-MINORET (Doctor Denis), born in Nemours in 1746, had the support
-of Dupont, deputy to the States-General in 1789, who was his
-fellow-citizen; he was intimate with the Abbe Morellet, also the
-pupil of Rouelle the chemist, and an ardent admirer of Diderot's
-friend, Bordeu, by means of whom, or his friends, he gained a large
-practice. Denis Minoret invented the Lelievre balm, became an
-acquaintance and protector of Robespierre, married the daughter of
-the celebrated harpsichordist, Valentin Mirouet, died suddenly, soon
-after the execution of Madame Roland. The Empire, like the former
-governments, recompensed Minoret's ability, and he became consulting
-physician to His Imperial and Royal Majesty, in 1805, chief hospital
-physician, officer of the Legion of Honor, chevalier of Saint-Michel,
-and member of the Institute. Upon withdrawing to Nemours, January, 1815,
-he lived there in company with his ward, Ursule Mirouet, daughter of his
+MINORET (Doctor Denis), born in Nemours in 1746, had the support of
+Dupont, deputy to the States-General in 1789, who was his fellow-
+citizen; he was intimate with the Abbe Morellet, also the pupil of
+Rouelle the chemist, and an ardent admirer of Diderot's friend,
+Bordeu, by means of whom, or his friends, he gained a large practice.
+Denis Minoret invented the Lelievre balm, became an acquaintance and
+protector of Robespierre, married the daughter of the celebrated
+harpsichordist, Valentin Mirouet, died suddenly, soon after the
+execution of Madame Roland. The Empire, like the former governments,
+recompensed Minoret's ability, and he became consulting physician to
+His Imperial and Royal Majesty, in 1805, chief hospital physician,
+officer of the Legion of Honor, chevalier of Saint-Michel, and member
+of the Institute. Upon withdrawing to Nemours, January, 1815, he lived
+there in company with his ward, Ursule Mirouet, daughter of his
 brother-in-law, Joseph Mirouet, later Madame Savinien de Portenduere,
 a girl whom he had taken care of since she had become an orphan. As
 she was the living image of the late Madame Denis Minoret, he loved
@@ -2669,15 +2935,15 @@ Mirouet.]
 MINORET-LEVRAULT (Francois), son of the oldest brother of the
 preceding, and his nearest heir, born in 1769, strong but uncouth and
 illiterate, had charge of the post-horses and was keeper of the best
-tavern in Nemours, as a result of his marriage with Zelie
-Levrault-Cremiere, an only daughter. After the Revolution of 1830 he
-became deputy-mayor. As principle heir to Doctor Minoret's estate he
-was the bitterest persecutor of Ursule Mirouet, and made away with the
-will which favored the young girl. Later, being compelled to restore
-her property, overcome by remorse, and sorrowing for his son, who was
-the victim of a runaway, and for his insane wife, Francois
-Minoret-Levrault became the faithful keeper of the property of Ursule,
-who had then become Madame Savinien de Portenduere. [Ursule Mirouet.]
+tavern in Nemours, as a result of his marriage with Zelie Levrault-
+Cremiere, an only daughter. After the Revolution of 1830 he became
+deputy-mayor. As principle heir to Doctor Minoret's estate he was the
+bitterest persecutor of Ursule Mirouet, and made away with the will
+which favored the young girl. Later, being compelled to restore her
+property, overcome by remorse, and sorrowing for his son, who was the
+victim of a runaway, and for his insane wife, Francois Minoret-
+Levrault became the faithful keeper of the property of Ursule, who had
+then become Madame Savinien de Portenduere. [Ursule Mirouet.]
 
 MINORET-LEVRAULT (Madame Francois), wife of the preceding, born Zelie
 Levrault-Cremiere, physically feeble, sour of countenance and action,
@@ -2778,10 +3044,10 @@ in Paris during the Restoration, also at the same time a money-lender.
 He numbered among his patrons Molineux and Birotteau. He was invited
 to the celebrated ball given in December, 1818, by the perfumer. Being
 a maternal uncle of Isidore Baudoyer, connected in a friendly way with
-Bidault--Gigonnet--and Esther-Jean van Gobseck, Mitral, by their
-good-will, obtained his nephew's appointment to the Treasury, December,
-1824. He spent his time then in Isle-Adam, the Marais and the
-Saint-Marceau section, places of residence of his numerous family. In
+Bidault--Gigonnet--and Esther-Jean van Gobseck, Mitral, by their good-
+will, obtained his nephew's appointment to the Treasury, December,
+1824. He spent his time then in Isle-Adam, the Marais and the Saint-
+Marceau section, places of residence of his numerous family. In
 possession of a fortune, which undoubtedly would go later to the
 Isidore Baudoyers, Mitral retired to the Seine-et-Oise division.
 [Cesar Birotteau. The Government Clerks.]
@@ -2798,10 +3064,10 @@ father of four children; lived in the fifth story at 11, rue des
 Trois-Freres, now known as rue Taitbout. He innocently exposed the
 address of Paquita Valdes to Laurent, a servant of Marsay, who
 artfully tried to obtain it for him. "My name," said the mail-carrier
-to the servant, "is written just like _Moineau_ (sparrow)--M-o-i-n-o-t."
-"Certainly," replied Laurent. [The Thirteen.]
+to the servant, "is written just like /Moineau/ (sparrow)--M-o-i-n-o-
+t." "Certainly," replied Laurent. [The Thirteen.]
 
-MOISE, Jew, who was formerly a leader of the _rouleurs_ in the South.
+MOISE, Jew, who was formerly a leader of the /rouleurs/ in the South.
 His wife, La Gonore, was a widow in 1830. [Scenes from a Courtesan's
 Life.]
 
@@ -2908,34 +3174,33 @@ authoritativeness, brought him to the notice of Louis XVIII., who
 appointed him governor of Bretagne, Normandie, Maine and Anjou. Under
 the name of Gras, having become commander of the Chouans, in
 September, the marquis conducted them in an attack against the Blues
-on the plateau of La Pelerine, which extends between Fougeres,
-Ille-et-Vilaine, and Ernee, Mayenne. Madame du Gua did not leave him
-even then. Alphonse de Montauran sought the hand of Mademoiselle
-d'Uxelles, after leaving this, the last mistress of Charette.
-Nevertheless, he fell in love with Marie de Verneuil, the spy, who
-had entered Bretagne with the express intention of delivering him to
-the Blues. He married her in Fougeres, but the Republicans murdered
-him and his wife a few hours after their marriage. [Cesar Birotteau.
-The Chouans.]
+on the plateau of La Pelerine, which extends between Fougeres, Ille-
+et-Vilaine, and Ernee, Mayenne. Madame du Gua did not leave him even
+then. Alphonse de Montauran sought the hand of Mademoiselle d'Uxelles,
+after leaving this, the last mistress of Charette. Nevertheless, he
+fell in love with Marie de Verneuil, the spy, who had entered Bretagne
+with the express intention of delivering him to the Blues. He married
+her in Fougeres, but the Republicans murdered him and his wife a few
+hours after their marriage. [Cesar Birotteau. The Chouans.]
 
-MONTAURAN (Marquise Alphonse de), wife of the preceding; born
-Marie-Nathalie de Verneuil at La Chanterie near Alencon, natural
-daughter of Mademoiselle Blanche de Casteran, who was abbess of
-Notre-Dame de Seez at the time of her death, and of Victor-Amedee,
-Duc de Verneuil, who owned her and left her an inheritance, at the
-expense of her legitimate brother. A lawsuit between brother and
-sister resulted. Marie-Nathalie lived then with her guardian, the
-Marechal Duc de Lenoncourt, and was supposed to be his mistress.
-After vainly trying to bring him to the point of marriage she was
-cast off by him. She passed through divers political and social paths
-during the Revolutionary period. After having shone in court circles
-she had Danton for a lover. During the autumn of 1799 Fouche hired
-Marie de Verneuil to betray Alphonse de Montauran, but the lovely spy
-and the chief of the Chouans fell in love with each other. They were
-united in marriage a few hours before their death towards the end of
-that year, 1799, in which Jacobites and Chouans fought on Bretagne
-soil. Madame de Montauran was attired in her husband's clothes when a
-Republican bullet killed her. [The Chouans.]
+MONTAURAN (Marquise Alphonse de), wife of the preceding; born Marie-
+Nathalie de Verneuil at La Chanterie near Alencon, natural daughter of
+Mademoiselle Blanche de Casteran, who was abbess of Notre-Dame de Seez
+at the time of her death, and of Victor-Amedee, Duc de Verneuil, who
+owned her and left her an inheritance, at the expense of her
+legitimate brother. A lawsuit between brother and sister resulted.
+Marie-Nathalie lived then with her guardian, the Marechal Duc de
+Lenoncourt, and was supposed to be his mistress. After vainly trying
+to bring him to the point of marriage she was cast off by him. She
+passed through divers political and social paths during the
+Revolutionary period. After having shone in court circles she had
+Danton for a lover. During the autumn of 1799 Fouche hired Marie de
+Verneuil to betray Alphonse de Montauran, but the lovely spy and the
+chief of the Chouans fell in love with each other. They were united in
+marriage a few hours before their death towards the end of that year,
+1799, in which Jacobites and Chouans fought on Bretagne soil. Madame
+de Montauran was attired in her husband's clothes when a Republican
+bullet killed her. [The Chouans.]
 
 MONTAURAN (Marquis de), younger brother of Alphonse de Montauran, was
 in London, in 1799, when he received a letter from Colonel Hulot
@@ -3110,9 +3375,9 @@ dealings with Leger were exposed by Reybert, and retired a wealthy
 man. A silly deed of his godson, Oscar Husson, was, more than anything
 else, the cause of his dismissal from his position at Presles. Moreau
 attained a lofty position under Louis Philippe, having grown wealthy
-through real-estate, and became the father-in-law of
-Constant-Cyr-Melchior de Canalis. At last he became a prominent deputy
-of the Centre under the name of Moreau of the Oise. [A Start in Life.]
+through real-estate, and became the father-in-law of Constant-Cyr-
+Melchior de Canalis. At last he became a prominent deputy of the
+Centre under the name of Moreau of the Oise. [A Start in Life.]
 
 MOREAU (Madame Estelle), fair-skinned wife of the preceding, born of
 lowly origin at Saint-Lo, became maid to Leontine de Serizy. Her
@@ -3139,8 +3404,8 @@ wife, in the village near Grenoble--a place which was completely
 changed by Doctor Benassis. [The Country Doctor.]
 
 MOREAU-MALVIN, "a prominent butcher," died about 1820. His beautiful
-tomb of white marble ornaments rue du Marechal-Lefebvre at
-Pere-Lachaise, near the burial-place of Madame Jules Desmarets and
+tomb of white marble ornaments rue du Marechal-Lefebvre at Pere-
+Lachaise, near the burial-place of Madame Jules Desmarets and
 Mademoiselle Raucourt of the Comedie-Francaise. [The Thirteen.]
 
 MORILLON (Pere), a priest, who had charge, for some time under the
@@ -3179,10 +3444,10 @@ leave Clochegourde, a castle brought to him in his wife's dowry and
 situated on the banks of the Indre and the Cher. [The Lily of the
 Valley.]
 
-MORTSAUF (Comtesse de),[*] wife of the preceding; born
-Blanche-Henriette de Lenoncourt, of the "house of Lenoncourt-Givry,
-fast becoming extinct," towards the first years of the Restoration;
-was born after the death of three brothers, and thus had a sorrowful
+MORTSAUF (Comtesse de),[*] wife of the preceding; born Blanche-
+Henriette de Lenoncourt, of the "house of Lenoncourt-Givry, fast
+becoming extinct," towards the first years of the Restoration; was
+born after the death of three brothers, and thus had a sorrowful
 childhood and youth; found a good foster-mother in her aunt, a
 Blamont-Chauvry; and when married found her chief pleasure in the care
 of her children. This feeling gave her the power to repress the love
@@ -3201,15 +3466,15 @@ would have been their heir. [The Lily of the Valley.]
 MORTSAUF (Madeleine de), sister of the preceding; after her mother's
 death she would not receive Felix de Vandenesse, who had been Madame
 de Mortsauf's lover. She became in time Duchesse de Lenoncourt-Givry
-(See that name). [The Lily of the Valley.]
+(see that name). [The Lily of the Valley.]
 
 MOUCHE, born in 1811, illegitimate son of one of Fourchon's natural
 daughters and a soldier who died in Russia; was given a home, when an
 orphan, by his maternal grandfather, whom he aided sometimes as
-ropemaker's apprentice. About 1823, in the district of Ville-aux-Fayes,
-Bourgogne, he profited by the credulity of the strangers whom he was
-supposed to teach the art of hunting otter. Mouche's attitude and
-conversation, as he came in the autumn of 1823 to the Aigues,
+ropemaker's apprentice. About 1823, in the district of Ville-aux-
+Fayes, Bourgogne, he profited by the credulity of the strangers whom
+he was supposed to teach the art of hunting otter. Mouche's attitude
+and conversation, as he came in the autumn of 1823 to the Aigues,
 scandalized the Montcornets and their guests. [The Peasantry.]
 
 MOUCHON, eldest of three brothers who lived in 1793 in the Bourgogne
@@ -3223,13 +3488,13 @@ MOUCHON, brother of the preceding, had charge of the relay post-house
 at Conches, Bourgogne; had a daughter who married the wealthy farmer
 Guerbet; died in 1817. [The Peasantry.]
 
-MOUGIN, born about 1805 in Toulouse, fifth of the Parisian
-hair-dressers who, under the name of Marius, successively owned the
-same business. In 1845, a wealthy married man of family, captain in
-the Guard and decorated after 1832, an elector and eligible to office,
-he had established himself on the Place de la Bourse as capillary
-artist emeritus, where his praises were sung by Bixiou and Lora to
-the wondering Gazonal. [The Unconscious Humorists.]
+MOUGIN, born about 1805 in Toulouse, fifth of the Parisian hair-
+dressers who, under the name of Marius, successively owned the same
+business. In 1845, a wealthy married man of family, captain in the
+Guard and decorated after 1832, an elector and eligible to office, he
+had established himself on the Place de la Bourse as capillary artist
+emeritus, where his praises were sung by Bixiou and Lora to the
+wondering Gazonal. [The Unconscious Humorists.]
 
 MOUILLERON, king's attorney at Issoudun in 1822, cousin to every
 person in the city during the quarrels between the Rouget and Bridau
@@ -3260,7 +3525,7 @@ Gaillard. [Scenes from a Courtesan's Life.]
 
 
 
-                                  N
+N
 
 NANON, called Nanon the Great from her height (6 ft. 4 in.); born
 about 1769. First she tended cows on a farm that she was forced to
@@ -3572,8 +3837,8 @@ profits. It was in the old clothes shop, on the rue Neuve-Saint-Marc,
 that Frederic de Nucingen bargained for Esther van Gobseck. Towards
 the end of Charles X.'s reign, one of Madame Nourrisson's
 establishments, on rue Saint-Barbe, was managed by La Gonore; in the
-time of Louis Philippe another--a secret affair--existed at the
-so-called "Pate des Italiens"; Valerie Marneffe and Wenceslas Steinbock
+time of Louis Philippe another--a secret affair--existed at the so-
+called "Pate des Italiens"; Valerie Marneffe and Wenceslas Steinbock
 were once caught there together. Madame Nourrisson, first of the name,
 evidently continued to conduct her business on the rue Saint-Marc,
 since, in 1845, she narrated the minutiae of it to Madame Mahuchet
@@ -3649,13 +3914,13 @@ Secrets of a Princess. A Man of Business. Cousin Betty. The Muse of
 the Department. The Unconscious Humorists.]
 
 NUCINGEN (Baronne Delphine de), wife of the preceding, born in 1792,
-of fair complexion; the spoiled daughter of the opulent
-vermicelli-maker, Jean-Joachim Goriot; on the side of her mother, who
-died young, the granddaughter of a farmer. In the latter period of the
-Empire she contracted, greatly to her taste, a marriage for money.
-Madame de Nucingen formerly had as her lover Henri de Marsay, who
-finally abandoned her most cruelly. Reduced, at the time of Louis XVIII.,
-to the society of the Chaussee-d'Antin, she was ambitious to be admitted
+of fair complexion; the spoiled daughter of the opulent vermicelli-
+maker, Jean-Joachim Goriot; on the side of her mother, who died young,
+the granddaughter of a farmer. In the latter period of the Empire she
+contracted, greatly to her taste, a marriage for money. Madame de
+Nucingen formerly had as her lover Henri de Marsay, who finally
+abandoned her most cruelly. Reduced, at the time of Louis XVIII., to
+the society of the Chaussee-d'Antin, she was ambitious to be admitted
 to the Faubourg Saint-Germain, a circle of which her elder sister,
 Madame de Restaud, was a member. Eugene de Rastignac opened to her the
 parlor of Madame de Beauseant, his cousin, rue de Greville, in 1819,
@@ -3738,7 +4003,7 @@ husband. [The Deserted Woman.]
 
 
 
-                                  O
+O
 
 O'FLAHARTY (Major), maternal uncle of Raphael de Valentin, to whom he
 bequeathed ten millions upon his death in Calcutta, August, 1828. [The
@@ -3796,7 +4061,7 @@ Gambaras. [Gambara.]
 
 
 
-                                  P
+P
 
 PACCARD, released convict, in Jacques Collin's clutches, well known as
 a thief and drunkard. He was Prudence Servien's lover, and both were
@@ -3991,8 +4256,8 @@ the courtesan's followers. The police department, having been told of
 this arrangement by the so-called Abbe Carlos Herrera, would not
 permit him to enter into the employ of a private individual. Despite
 the protection of his friend, Corentin, and the talent as a policeman,
-which he had shown under the assumed names of Canquoelle and
-Saint-Germain, especially in connection with F. Gaudissart's seizure,
+which he had shown under the assumed names of Canquoelle and Saint-
+Germain, especially in connection with F. Gaudissart's seizure,
 Peyrade failed in his struggle with Jacques Collin. His excellent
 transformation into a nabob defender of Madame Theodore Gaillard made
 the former convict so angry that, during the last years of the
@@ -4047,17 +4312,17 @@ come to him, Celeste-Louise-Caroline-Brigette Colleville, the sister
 of one of his pupils and a woman for whom his love was so strong that
 he gave up Voltairism for Catholicism. [The Middle Classes.]
 
-PHELLION (Madame Felix), wife of the preceding; born
-Celeste-Louise-Caroline-Brigitte Colleville. Although M. and Madame
-Colleville's daughter, she was reared almost entirely by the Thuilliers.
-Indeed, M. L.-J. Thuillier, who had been one of Madame Flavie
-Colleville's lovers, passed for Celeste's father. M., Madame and
-Mademoiselle Thuillier were all determined to give her their Christian
-names and to make up a large dowry for her. Olivier Vinet, Godeschal,
-Theodose de la Peyrade, all wished to marry Mademoiselle Colleville.
-Nevertheless, although she was a devoted Christian, she loved Felix
-Phellion, the Voltairean, and married him after his conversion to
-Catholicism. [The Middle Classes.]
+PHELLION (Madame Felix), wife of the preceding; born Celeste-Louise-
+Caroline-Brigitte Colleville. Although M. and Madame Colleville's
+daughter, she was reared almost entirely by the Thuilliers. Indeed, M.
+L.-J. Thuillier, who had been one of Madame Flavie Colleville's
+lovers, passed for Celeste's father. M., Madame and Mademoiselle
+Thuillier were all determined to give her their Christian names and to
+make up a large dowry for her. Olivier Vinet, Godeschal, Theodose de
+la Peyrade, all wished to marry Mademoiselle Colleville. Nevertheless,
+although she was a devoted Christian, she loved Felix Phellion, the
+Voltairean, and married him after his conversion to Catholicism. [The
+Middle Classes.]
 
 PHELLION (Marie-Theodore), Felix Phellion's younger brother, in 1840
 pupil at the Ecole des Ponts et Chaussees. [The Middle Classes.]
@@ -4082,9 +4347,9 @@ Gregoire.) [The Peasantry.]
 PICOT (Nepomucene), astronomer and mathematician, friend of Biot after
 1807, author of a "Treatise on Differential Logarithms," and
 especially of a "Theory of Perpetual Motion," four volumes, quarto,
-with engravings, Paris, 1825; lived, in 1840, No. 9 rue du
-Val-de-Grace. Being very near-sighted and erratic, the prey of his
-thieving servant, Madame Lambert, his family thought that he needed a
+with engravings, Paris, 1825; lived, in 1840, No. 9 rue du Val-de-
+Grace. Being very near-sighted and erratic, the prey of his thieving
+servant, Madame Lambert, his family thought that he needed a
 protector. Being instructor of Felix Phellion, with whom he took a
 trip to England, Picot made known his pupil's great ability, which the
 boy had modestly kept secret, at the home of the Thuilliers, Place de
@@ -4102,7 +4367,7 @@ Vaumerland boarded with one of Madame Vauquer's rivals, according to
 Madame de l'Ambermesnil. [Father Goriot.]
 
 PIUS VII. (Barnabas Chiaramonti), lived from 1740 till 1823; pope.
-Having been asked by letter in 1806, if a woman might go _decollete_
+Having been asked by letter in 1806, if a woman might go /decollete/
 to the ball or to the theatre, without endangering her welfare, he
 answered his correspondent, Madame Angelique de Granville, in a manner
 befitting the gentle Fenelon. [A Second Home.]
@@ -4216,18 +4481,18 @@ PILLERAULT (Claude-Joseph), a very upright Parisian trader, proprietor
 of the Cloche d'Or, a hardware establishment on the Quai de la
 Ferraille; made a modest fortune, and retired from business in 1814.
 After losing, one after another, his wife, his son, and an adopted
-child, Pillerault devoted his life to his niece,
-Constance-Barbe-Josephine, of whom he was guardian and only relative.
-Pillerault lived on the rue des Bourdonnais, in 1818, occupying a small
-apartment let to him by Camusot of the Cocon d'Or. During that period,
-Pillerault was remarkable for the intelligence, energy and courage
-displayed in connection with the unfortunate Birotteaus, who were
-falling into bad repute. He found out Claparon, and terrified Molineux,
-both enemies of the Birotteaus. Politics and the Cafe David, situated
-between the rue de la Monnaie and the rue Saint-Honore, consumed the
-leisure hours of Pillerault, who was a stoical and staunch Republican;
-he was exceedingly considerate of Madame Vaillant, his house-keeper,
-and treated Manuel, Foy, Perier, Lafayette and Courier as gods. [Cesar
+child, Pillerault devoted his life to his niece, Constance-Barbe-
+Josephine, of whom he was guardian and only relative. Pillerault lived
+on the rue des Bourdonnais, in 1818, occupying a small apartment let
+to him by Camusot of the Cocon d'Or. During that period, Pillerault
+was remarkable for the intelligence, energy and courage displayed in
+connection with the unfortunate Birotteaus, who were falling into bad
+repute. He found out Claparon, and terrified Molineux, both enemies of
+the Birotteaus. Politics and the Cafe David, situated between the rue
+de la Monnaie and the rue Saint-Honore, consumed the leisure hours of
+Pillerault, who was a stoical and staunch Republican; he was
+exceedingly considerate of Madame Vaillant, his house-keeper, and
+treated Manuel, Foy, Perier, Lafayette and Courier as gods. [Cesar
 Birotteau.] Pillerault lived to a very advanced age. The Anselme
 Popinots, his grand-nephew and grand-niece, paid him a visit in 1844.
 Poulain cured the old man of an illness when he was more than eighty
@@ -4351,31 +4616,32 @@ Department of Finance under Robert Lindet; there he met Antoine, the
 office boy; he left the department, in 1816, with a retiring pension,
 and was replaced by Saillard. [The Government Clerks.] Afflicted with
 cretinism he remained a bachelor because of the horror inspired by the
-memory of his mother's immoral life; he was a confirmed _idemiste_,
+memory of his mother's immoral life; he was a confirmed /idemiste/,
 repeating, with slight variation, the words of those with whom he was
-conversing. Poiret established himself on the rue Neuve-Sainte-Genevieve,
-at Madame Vauquer's private boarding-house; he occupied the second story
-at the widow's house, became intimate with Christine-Michelle Michonneau
-and married her, when Horace Bianchon demanded the exclusion of this
-young woman from the house for denouncing Jacques Collin (1819). [Father
-Goriot.] Poiret often afterwards met M. Clapart, an old comrade whom he
-had found again on the rue de la Cerisaie; had apartments on the rue des
-Poules and lost his health. [A Start in Life. Scenes from a Courtesan's
-Life.] He died during the reign of Louis Philippe. [The Middle Classes.]
+conversing. Poiret established himself on the rue Neuve-Sainte-
+Genevieve, at Madame Vauquer's private boarding-house; he occupied the
+second story at the widow's house, became intimate with Christine-
+Michelle Michonneau and married her, when Horace Bianchon demanded the
+exclusion of this young woman from the house for denouncing Jacques
+Collin (1819). [Father Goriot.] Poiret often afterwards met M.
+Clapart, an old comrade whom he had found again on the rue de la
+Cerisaie; had apartments on the rue des Poules and lost his health. [A
+Start in Life. Scenes from a Courtesan's Life.] He died during the
+reign of Louis Philippe. [The Middle Classes.]
 
 POIRET (Madame), wife of the preceding, born Christine-Michelle
 Michonneau, in 1779, doubtless had a stormy youth. Pretending to have
 been persecuted by the heirs of a rich old man for whom she had cared,
 Christine-Michelle Michonneau went, during the Restoration, to board
-with Madame Vauquer, the third floor of the house on rue
-Neuve-Sainte-Genevieve; made Poiret her squire; made a deal with
-Bibi-Lupin--Gondureau--to betray Jacques Collin, one of Madame Vauquer's
-guests. Having thus sated her cupidity and her bitter feelings,
-Mademoiselle Michonneau was forced to leave the house on rue
-Neuve-Sainte-Genevieve, at the formal demand of Bianchon, another of the
-guests. [Father Goriot.] Accompanied by Poiret, whom she afterwards
-married, she moved to the rue des Poules and rented furnished rooms.
-Being summoned before the examining magistrate Camusot (May, 1830), she
+with Madame Vauquer, the third floor of the house on rue Neuve-Sainte-
+Genevieve; made Poiret her squire; made a deal with Bibi-Lupin--
+Gondureau--to betray Jacques Collin, one of Madame Vauquer's guests.
+Having thus sated her cupidity and her bitter feelings, Mademoiselle
+Michonneau was forced to leave the house on rue Neuve-Sainte-
+Genevieve, at the formal demand of Bianchon, another of the guests.
+[Father Goriot.] Accompanied by Poiret, whom she afterwards married,
+she moved to the rue des Poules and rented furnished rooms. Being
+summoned before the examining magistrate Camusot (May, 1830), she
 recognized Jacques Collin in the pseudo Abbe Carlos Herrera. [Scenes
 from a Courtesan's Life.] Ten years later, Madame Poiret, now a widow,
 was living on a corner of the rue des Postes, and numbered Cerizet
@@ -4474,8 +4740,8 @@ Mohicans." This work most likely fell to his successor, Garangeot.
 POPINOT, alderman of Sancerre in the eighteenth century; father of
 Jean-Jules Popinot and Madame Ragon (born Popinot). He was the officer
 whose portrait, painted by Latour, adorned the walls of Madame Ragon's
-parlor, during the Restoration, at her home in the Quartier
-Saint-Sulpice, Paris. [Cesar Birotteau.]
+parlor, during the Restoration, at her home in the Quartier Saint-
+Sulpice, Paris. [Cesar Birotteau.]
 
 POPINOT (Jean-Jules), son of the preceding, brother of Madame Ragon,
 and husband of Mademoiselle Bianchon--of Sancerre--embraced the
@@ -4494,17 +4760,17 @@ years later he lost his wife, who had brought him, for dowry, an
 income of six thousand francs, representing exactly twice his personal
 assets. Living from this time at the rue de Fouarre, Popinot was able
 to give free rein to the exercise of charity, a virtue that had become
-a passion with him. At the urgent instance of Octave de Bauvan,
-Jean-Jules Popinot, in order to aid Honorine, the Count's wife, sent
-her a pretended commission-merchant, probably Felix Gaudissart,
-offering a more than generous price for the flowers she made.
-[Honorine.] Jean-Jules Popinot eventually established a sort of
-benevolent agency. Lavienne, his servant, and Horace Bianchon, his
-wife's nephew aided him. He relieved Madame Toupinet, a poor woman on
-the rue du Petit-Banquier, from want (1828). Madame d'Espard's request
-for a guardian for her husband served to divert Popinot from his role
-of Saint Vincent de Paul; a man of rare delicacy hidden beneath a rough
-and uncultured exterior, he immediately discovered the injustice of the
+a passion with him. At the urgent instance of Octave de Bauvan, Jean-
+Jules Popinot, in order to aid Honorine, the Count's wife, sent her a
+pretended commission-merchant, probably Felix Gaudissart, offering a
+more than generous price for the flowers she made. [Honorine.] Jean-
+Jules Popinot eventually established a sort of benevolent agency.
+Lavienne, his servant, and Horace Bianchon, his wife's nephew aided
+him. He relieved Madame Toupinet, a poor woman on the rue du Petit-
+Banquier, from want (1828). Madame d'Espard's request for a guardian
+for her husband served to divert Popinot from his role of Saint
+Vincent de Paul; a man of rare delicacy hidden beneath a rough and
+uncultured exterior, he immediately discovered the injustice of the
 wrongs alleged by the marchioness, and recognized the real victim in
 M. d'Espard, when he cross-questioned him at No. 22 rue de la
 Montagne-Sainte-Genevieve, in an apartment, the good management of
@@ -4612,7 +4878,7 @@ of age, without means, and with a nephew whose expenses he was paying
 at the seminary of Saint-Sulpice, he went to solicit the aid of his
 dear "foster-child," to obtain the position of principal of a
 provincial school, and suffered rough treatment at the hands of the
-_carus alumnus_, every act of whose shortened Valentin's existence.
+/carus alumnus/, every act of whose shortened Valentin's existence.
 [The Magic Skin.]
 
 PORTA (Luigi), born in 1793, strikingly like his sister Nina. He was
@@ -4772,10 +5038,10 @@ d'Orleans, late in 1844 or early in 1845. [Cousin Pons.]
 
 POULAIN (Doctor), born about 1805, friendless and without fortune;
 strove in vain to gain the patronage of the Paris "four hundred" after
-1835. He kept constantly near him his mother, widow of a
-trousers-maker. As a poor neighborhood physician he afterwards lived
-with his mother on rue d'Orleans at the Marais. He became acquainted
-with Madame Cibot, door-keeper at a house on rue de Normandie, the
+1835. He kept constantly near him his mother, widow of a trousers-
+maker. As a poor neighborhood physician he afterwards lived with his
+mother on rue d'Orleans at the Marais. He became acquainted with
+Madame Cibot, door-keeper at a house on rue de Normandie, the
 proprietor of which, C.-J. Pillerault, uncle of the Popinots and
 ordinarily under Horace Bianchon's treatment, he cured. By Madame
 Cibot, Poulain was called also to attend Pons in a case of
@@ -4788,10 +5054,10 @@ physician of this great infirmary. [Cousin Pons.]
 
 POUPART, or Poupard, from Arcis-sur-Aube, husband of Gothard's sister;
 one of the heroes of the Simeuse affair; proprietor of the Mulet
-tavern. Being devoted to the interest of the Cadignans, the
-Cinq-Cygnes and the Hauterserres, in 1839, during the electoral
-campaign, he gave lodging to Maxime de Trailles, a government envoy,
-and to Paradis, the count's servant. [The Member for Arcis.]
+tavern. Being devoted to the interest of the Cadignans, the Cinq-
+Cygnes and the Hauterserres, in 1839, during the electoral campaign,
+he gave lodging to Maxime de Trailles, a government envoy, and to
+Paradis, the count's servant. [The Member for Arcis.]
 
 POUTIN, colonel of the Second lancers, an acquaintance of Marechal
 Cottin, minister of war in 1841, to whom he told that many years
@@ -4852,7 +5118,7 @@ the delectation of the young spectator. [A Passion in the Desert.]
 
 
 
-                                  Q
+Q
 
 QUELUS (Abbe), priest of Tours or of its vicinity, called frequently
 on the Chessels, neighbors of the Mortsaufs, at the beginning of the
@@ -4872,7 +5138,7 @@ by the use of this assumed name. [A Daughter of Eve.]
 
 
 
-                                  R
+R
 
 RABOUILLEUSE (La), name assumed by Flore Brazier, who became in turn
 Madame Jean-Jacques Rouget and Madame Philippe Bridau. (See this last
@@ -4950,8 +5216,8 @@ foothold in France. [Z. Marcas.]
 
 RACQUETS (Des). (See Raquets, des.)
 
-RAGON born about 1748; a perfumer on rue Saint-Honore, between
-Saint-Roche and rue des Frondeurs, Paris, towards the close of the
+RAGON born about 1748; a perfumer on rue Saint-Honore, between Saint-
+Roche and rue des Frondeurs, Paris, towards the close of the
 eighteenth century; small man, hardly five feet tall, with a face like
 a nut-cracker, self-important and known for his gallantry. He was
 succeeded in his business, the "Reine des Roses," by his chief clerk,
@@ -4992,15 +5258,15 @@ RAPARLIER, a Douai auctioneer, under the Restoration; nephew of the
 preceding; took an inventory at the Claes house after the death of
 Madame Balthazar Claes in 1816. [The Quest of the Absolute.]
 
-RAPP, French general, born at Colmar in 1772; died in 1821. As
-aide-de-camp of the First Consul, Bonaparte, he found himself one day
-in October serving near his chief at the Tuileries, when the
-proscribed Corsican, Bartolomeo de Piombo, came up rather unexpectedly.
-Rapp, who was suspicious of this man, as he was of all Corsicians,
-wished to stay at Bonaparte's side during the interview, but the Consul
-good-naturedly sent him away. [The Vendetta.] On October 13, 1806, the
-day before the battle of Jena, Rapp had just made an important report
-to the Emperor at the moment when Napoleon was receiving on the next
+RAPP, French general, born at Colmar in 1772; died in 1821. As aide-
+de-camp of the First Consul, Bonaparte, he found himself one day in
+October serving near his chief at the Tuileries, when the proscribed
+Corsican, Bartolomeo de Piombo, came up rather unexpectedly. Rapp, who
+was suspicious of this man, as he was of all Corsicians, wished to
+stay at Bonaparte's side during the interview, but the Consul good-
+naturedly sent him away. [The Vendetta.] On October 13, 1806, the day
+before the battle of Jena, Rapp had just made an important report to
+the Emperor at the moment when Napoleon was receiving on the next
 day's battlefield Mademoiselle Laurence de Cinq-Cygne and M. de
 Chargeboeuf, who had come from France to ask for the pardon of the two
 Hauteserres and the two Simeuses, people affected by the political
@@ -5011,9 +5277,9 @@ traditions and customs of his province; very wealthy uncle of the
 notary Pierquin, his only heir, who received his inheritance towards
 the close of the Restoration. [The Quest of the Absolute.]
 
-RASTIGNAC (Chevalier de), great-uncle of Eugene de Rastignac; as
-vice-admiral was commander of the "Vengeur" before 1789, and lost
-his entire fortune in the service of the king, as the revolutionary
+RASTIGNAC (Chevalier de), great-uncle of Eugene de Rastignac; as vice-
+admiral was commander of the "Vengeur" before 1789, and lost his
+entire fortune in the service of the king, as the revolutionary
 government did not wish to satisfy his demands in the adjusting of the
 Compagnie des Indes affairs. [Father Goriot.]
 
@@ -5055,41 +5321,41 @@ masquerade ball of 1824 Rastignac found Rubempre, who had disappeared
 from Paris some time before. Vautrin, recalling his memories of the
 Vauquer lodging-house, urged him authoritatively to treat Lucien as a
 friend. Shortly after, Rastignac became a frequenter of the sumptuous
-mansion furnished by Nucingen for Esther van Gobseck on rue
-Saint-Georges. Rastignac was present at Lucien de Rubempre's funeral
-in May, 1830. [Scenes from a Courtesan's Life.] About the same time
-the Comte de Fontaine asked his daughter Emilie what she thought of
-Rastignac--among several others--as a possible husband for her. But
-knowing the relations of this youthful aspirant with Madame de
-Nucingen, she saved herself by replying maliciously. [The Ball at
-Sceaux.] In 1828 Rastignac sought to become Madame d'Espard's lover,
-but was restrained by his friend, Doctor Bianchon. [The Interdiction.]
-During the same year Rastignac was treated slightingly by Madame de
-Listomere, because he asked her to return a letter, which through
-mistake had been sent to her, but which he had meant for Madame de
-Nucingen. [A Study of Woman.] After the Revolution of July he was a
-guest at Mademoiselle des Touches's evening party, where Marsay told
-the story of his first love. [Another Study of Woman.] At this time
-he was intimate with Raphael de Valentin, and expected to marry an
-Alsatian. [The Magic Skin.] In 1832, Rastignac, having been appointed
-a baron, was under-secretary of state in the department of which Marsay
-was the minister. [The Secrets of a Princess.] In 1833-34, he
-volunteered as nurse at the bedside of the dying minister, in the hope
-of being remembered in his will. One evening about this same time he
-took Raoul Nathan and Emile Blondet, whom he had met in society, to
-supper with him at Very's. He then advised Nathan to profit by the
-advances made him by the Comtesse Felix de Vandenesse. [A Daughter of
-Eve.] In 1833, at the Princesse de Cadignan's home, in the presence of
-the Marquise d'Espard, the old Ducs de Lenoncourt and de Navarreins,
-the Comte and the Comtesse de Vandenesse, D'Arthez, two ambassadors,
-and two well-known orators of the Chamber of Peers, Rastignac heard
-his minister reveal the secrets of the abduction of Senator Malin, an
-affair which took place in 1806. [The Gondreville Mystery.] In 1836,
-having become enriched by the third Nucingen failure, in which he was
-more or less a willing accomplice, he became possessed of an income of
-forty thousand francs. [The Firm of Nucingen.] In 1838 he attended the
-opening reception given at Josepha's mansion on rue de la Ville-l'Eveque.
-He was also witness at Hortense Hulot's marriage to Wenceslas Steinbock.
+mansion furnished by Nucingen for Esther van Gobseck on rue Saint-
+Georges. Rastignac was present at Lucien de Rubempre's funeral in May,
+1830. [Scenes from a Courtesan's Life.] About the same time the Comte
+de Fontaine asked his daughter Emilie what she thought of Rastignac--
+among several others--as a possible husband for her. But knowing the
+relations of this youthful aspirant with Madame de Nucingen, she saved
+herself by replying maliciously. [The Ball at Sceaux.] In 1828
+Rastignac sought to become Madame d'Espard's lover, but was restrained
+by his friend, Doctor Bianchon. [The Interdiction.] During the same
+year Rastignac was treated slightingly by Madame de Listomere, because
+he asked her to return a letter, which through mistake had been sent
+to her, but which he had meant for Madame de Nucingen. [A Study of
+Woman.] After the Revolution of July he was a guest at Mademoiselle
+des Touches's evening party, where Marsay told the story of his first
+love. [Another Study of Woman.] At this time he was intimate with
+Raphael de Valentin, and expected to marry an Alsatian. [The Magic
+Skin.] In 1832, Rastignac, having been appointed a baron, was under-
+secretary of state in the department of which Marsay was the minister.
+[The Secrets of a Princess.] In 1833-34, he volunteered as nurse at
+the bedside of the dying minister, in the hope of being remembered in
+his will. One evening about this same time he took Raoul Nathan and
+Emile Blondet, whom he had met in society, to supper with him at
+Very's. He then advised Nathan to profit by the advances made him by
+the Comtesse Felix de Vandenesse. [A Daughter of Eve.] In 1833, at the
+Princesse de Cadignan's home, in the presence of the Marquise
+d'Espard, the old Ducs de Lenoncourt and de Navarreins, the Comte and
+the Comtesse de Vandenesse, D'Arthez, two ambassadors, and two well-
+known orators of the Chamber of Peers, Rastignac heard his minister
+reveal the secrets of the abduction of Senator Malin, an affair which
+took place in 1806. [The Gondreville Mystery.] In 1836, having become
+enriched by the third Nucingen failure, in which he was more or less a
+willing accomplice, he became possessed of an income of forty thousand
+francs. [The Firm of Nucingen.] In 1838 he attended the opening
+reception given at Josepha's mansion on rue de la Ville-l'Eveque. He
+was also witness at Hortense Hulot's marriage to Wenceslas Steinbock.
 He married Augusta de Nucingen, daughter of Delphine de Nucingen, his
 former mistress, whom he had quitted five years previously. In 1839,
 Rastignac, minister once more, and this time of public works, was made
@@ -5130,10 +5396,10 @@ Daughter of Eve.]
 RASTIGNAC (Henri de), the fifth child, probably of the Baron de
 Rastignac and his wife. Nothing is known of his life. [Father Goriot.]
 
-RATEL, gendarme in the Orne district; in 1809, along with his
-fellow-officer, Mallet, was charged with the capture of "Lady" Bryond
-des Miniares, who was implicated in the affair known as the "Chauffeurs
-de Mortagne." He found the fugitive, but, instead of arresting her,
+RATEL, gendarme in the Orne district; in 1809, along with his fellow-
+officer, Mallet, was charged with the capture of "Lady" Bryond des
+Miniares, who was implicated in the affair known as the "Chauffeurs de
+Mortagne." He found the fugitive, but, instead of arresting her,
 allowed himself to be unduly influenced by her, and then protected her
 and let her escape. This action on his part was known to Mallet.
 Ratel, when imprisoned, confessed all, and committed suicide before
@@ -5200,28 +5466,29 @@ REMONENCQ (Mademoiselle), sister of the preceding, "a kind of idiot
 with a vacant stare, dressed like a Japanese idol." She was her
 brother's house-keeper. [Cousin Pons.]
 
-REMONENCQ (Madame), born in 1796, at one time a beautiful oyster-woman
-of the "Cadran Bleu" in Paris; married for love the porter-tailor,
-Cibot, in 1828, and lived with him in the porter's lodge of a house on
-rue de Normandie, belonging to Claude-Joseph Pillerault. In this house
-the musicians, Pons and Schmucke, lived. She busied herself for some
-time with the management of the house and the cooking for these two
-celibates. At first she was faithful, but finally, moved by Remonencq,
-and encouraged by Fontaine, the necromancer, she robbed the ill-fated
-Pons. Her husband having been poisoned, without her knowledge, by
-Remonencq, she married the second-hand dealer, now a dealer in
-curiosities, and proprietor of the beautiful shop on the Boulevard de
-la Madeleine. She survived her second husband. [Cousin Pons.]
+REMONENCQ (Madame), born in 1796, at one time a beautiful oyster-
+woman of the "Cadran Bleu" in Paris; married for love the porter-
+tailor, Cibot, in 1828, and lived with him in the porter's lodge of a
+house on rue de Normandie, belonging to Claude-Joseph Pillerault. In
+this house the musicians, Pons and Schmucke, lived. She busied herself
+for some time with the management of the house and the cooking for
+these two celibates. At first she was faithful, but finally, moved by
+Remonencq, and encouraged by Fontaine, the necromancer, she robbed the
+ill-fated Pons. Her husband having been poisoned, without her
+knowledge, by Remonencq, she married the second-hand dealer, now a
+dealer in curiosities, and proprietor of the beautiful shop on the
+Boulevard de la Madeleine. She survived her second husband. [Cousin
+Pons.]
 
 REMY (Jean), peasant of Arcis-sur-Aube, against whom a neighbor lost a
 lawsuit concerning a boundary line. This neighbor, who was given to
 drink, used strong language in speaking against Jean Remy in a session
-of the electors who had organized in the interest of
-Dorlange-Sallenauve, a candidate, in the month of April, 1839. If we
-may believe this neighbor, Jean Remy was a wife-beater, and had a
-daughter who had obtained, through the influence of a deputy, and
-apparently without any claim, an excellent tobacco-stand on rue
-Mouffetard. [The Member for Arcis.]
+of the electors who had organized in the interest of Dorlange-
+Sallenauve, a candidate, in the month of April, 1839. If we may
+believe this neighbor, Jean Remy was a wife-beater, and had a daughter
+who had obtained, through the influence of a deputy, and apparently
+without any claim, an excellent tobacco-stand on rue Mouffetard. [The
+Member for Arcis.]
 
 RENARD, former captain in the Imperial army, withdrew to Issoudun
 during the Restoration; one of the officers in the Faubourg de Rome,
@@ -5436,18 +5703,18 @@ Galicia or Russie-Rouge; heirs, through their grandfather, to this
 family, and also, in default of the direct heirs, successors to the
 titles. [The Thirteen.]
 
-RIVET (Achille), maker of lace and embroidery on rue des
-Mauvaises-Paroles, in the old Langeais house, built by the illustrious
-family at the time when the greatest lords were clustered around the
-Louvre. In 1815 he succeeded the Pons Brothers, embroiderers to the
-Court, and was judge in the tribunal of commerce. He employed Lisbeth
-Fischer, and, despite their quarrel, rendered this spinster some
-service. Achille Rivet worshiped Louis Philippe, who was to him the
-"noble representative of the class out of which he constructed his
-dynasty." He loved the Poles less, at the time they were preventing
-European equilibrium. He was willing to aid Cousin Betty in the revenge
-against Wenceslas, which she once contemplated, as a result of her
-jealousy. [Cousin Betty. Cousin Pons.]
+RIVET (Achille), maker of lace and embroidery on rue des Mauvaises-
+Paroles, in the old Langeais house, built by the illustrious family at
+the time when the greatest lords were clustered around the Louvre. In
+1815 he succeeded the Pons Brothers, embroiderers to the Court, and
+was judge in the tribunal of commerce. He employed Lisbeth Fischer,
+and, despite their quarrel, rendered this spinster some service.
+Achille Rivet worshiped Louis Philippe, who was to him the "noble
+representative of the class out of which he constructed his dynasty."
+He loved the Poles less, at the time they were preventing European
+equilibrium. He was willing to aid Cousin Betty in the revenge against
+Wenceslas, which she once contemplated, as a result of her jealousy.
+[Cousin Betty. Cousin Pons.]
 
 ROBERT, a Paris restaurant-keeper, near Frascati. Early in 1822 he
 furnished a banquet lasting nine hours, at the time of the founding of
@@ -5471,25 +5738,25 @@ was interested in this marriage. Arthur de Rochefide served in the
 Royal Guards. He was a handsome man, but not especially worthy. He
 spent much of his time at his toilet, and it was known that he wore a
 corset. He was everybody's friend, as he joined in with the opinions
-and extravagances of everybody. His favorite amusement was
-horse-racing, and he supported a journal devoted to the subject of
-horses. Having been deserted by his wife, he mourned without becoming
-the object of ridicule, and passed for a "jolly, good fellow." Made
-rich by the death of his father and of his elder sister, who was the
-wife of D'Ajuda-Pinto, he inherited, among other things, a splendid
-mansion on rue d'Anjou-Saint-Honore. He slept and ate there only
-occasionally and was very happy at not having the marital obligations
-and expense customary with married men. At heart he was so well
-satisfied at having been deserted by his wife, that he said to his
-friends, "I was born lucky." For a long time he supported Madame
-Schontz, and then they lived together maritally. She reared his
-legitimate son as carefully as though he were her own child. After 1840
-she married Du Ronceret, and Arthur de Rochefide was rejoined by his
-wife. He soon communicated to her a peculiar disease, which Madame
-Schontz, angered at having been abandoned, had given to him, as well
-as to Baron Calyste du Guenic. [Beatrix.] In 1838, Rochefide was
-present at the house-warming given by Josepha in her mansion on rue de
-la Ville-l'Eveque. [Cousin Betty.]
+and extravagances of everybody. His favorite amusement was horse-
+racing, and he supported a journal devoted to the subject of horses.
+Having been deserted by his wife, he mourned without becoming the
+object of ridicule, and passed for a "jolly, good fellow." Made rich
+by the death of his father and of his elder sister, who was the wife
+of D'Ajuda-Pinto, he inherited, among other things, a splendid mansion
+on rue d'Anjou-Saint-Honore. He slept and ate there only occasionally
+and was very happy at not having the marital obligations and expense
+customary with married men. At heart he was so well satisfied at
+having been deserted by his wife, that he said to his friends, "I was
+born lucky." For a long time he supported Madame Schontz, and then
+they lived together maritally. She reared his legitimate son as
+carefully as though he were her own child. After 1840 she married Du
+Ronceret, and Arthur de Rochefide was rejoined by his wife. He soon
+communicated to her a peculiar disease, which Madame Schontz, angered
+at having been abandoned, had given to him, as well as to Baron
+Calyste du Guenic. [Beatrix.] In 1838, Rochefide was present at the
+house-warming given by Josepha in her mansion on rue de la Ville-
+l'Eveque. [Cousin Betty.]
 
 ROCHEFIDE (Marquise de), wife of the preceding, younger daughter of
 the Marquis de Casteran; born Beatrix-Maximilienne-Rose de Casteran,
@@ -5595,9 +5862,9 @@ and was sharp at a bargain." He allowed his sister to maltreat
 Pierrette Lorrain, and, when called before the Provins court as
 responsible for the young girl's death, was acquitted. In his little
 city, Rogron, through the influence of the attorney, Vinet, opposed
-the government of Charles X. After 1830 he was appointed
-receiver-general. The former Liberal, who was one of the masses, said
-that Louis Philippe would not be a real king until he could create
+the government of Charles X. After 1830 he was appointed receiver-
+general. The former Liberal, who was one of the masses, said that
+Louis Philippe would not be a real king until he could create
 noblemen. In 1828, although homely and unintelligent, he married the
 beautiful Bathilde de Chargeboeuf, who inspired in him an old man's
 foolish passion. [Pierrette.]
@@ -5616,8 +5883,8 @@ heavy; black hair and high forehead; of somewhat distinguished
 appearance; affected with ozoena. This affection caused his ruin, for,
 having married the only daughter of the banker, Chevrel, he disgusted
 his wife very soon, and she was untrue to him. On the other hand, he
-had paid mistresses, and kept and was fleeced by Sarah van Gobseck
---"La Belle Hollandaise"--mother of Esther. He had met her about 1815.
+had paid mistresses, and kept and was fleeced by Sarah van Gobseck--
+"La Belle Hollandaise"--mother of Esther. He had met her about 1815.
 In 1818 and 1819 Roguin, seriously compromised by careless financial
 ventures as well as by dissipation, disappeared from Paris; and thus
 brought about the ruin of Guillaume Grandet, Cesar Birotteau, and
@@ -5728,12 +5995,12 @@ de Vernisset, La Palferine, Gobeneim, Vermanton the cynical
 philosphoer, etc. She even hoped to marry one of these. In 1836 she
 lived on rue Flechier, and was the mistress of Lousteau, to whom she
 wished to marry Felicie Cardot, the notary's daughter. Later she
-belonged to Stidmann. In 1838 she was present at Josepha's
-house-warming on rue de la Ville-l'Eveque. In 1840, at the first
-performance at the Ambigu, she met Madame de la Baudraye, then
-Lousteau's mistress. Josephine Schiltz finally became the wife of
-President du Ronceret. [Beatrix. The Muse of the Department. Cousin
-Betty. The Unconscious Humorists.]
+belonged to Stidmann. In 1838 she was present at Josepha's house-
+warming on rue de la Ville-l'Eveque. In 1840, at the first performance
+at the Ambigu, she met Madame de la Baudraye, then Lousteau's
+mistress. Josephine Schiltz finally became the wife of President du
+Ronceret. [Beatrix. The Muse of the Department. Cousin Betty. The
+Unconscious Humorists.]
 
 RONQUEROLLES (Marquis de), brother of Madame de Serizy; uncle of the
 Comtesse Laginska; one of "The Thirteen," and one of the most
@@ -5749,11 +6016,11 @@ the steward, was discharged by the Comte de Montcornet, Soudry spoke
 as follows: "Patience! We have Messieurs de Soulanges and de
 Ronquerolles." [The Imaginary Mistress. The Peasantry. Ursule
 Mirouet.] M. de Ronquerolles was an intimate friend of the Marquis
-d'Aiglemont; they even addressed each other familiarly as _thou_
-instead of _you_. [A Woman of Thirty.] He alone knew of Marsay's first
+d'Aiglemont; they even addressed each other familiarly as /thou/
+instead of /you/. [A Woman of Thirty.] He alone knew of Marsay's first
 love and the name of "Charlotte's" husband. [Another Study of Woman.]
-In 1820 the Marquis de Ronquerolles, while at a ball at the
-Elysee-Bourbon, in the Duchesse de Berri's house, provoked Auguste de
+In 1820 the Marquis de Ronquerolles, while at a ball at the Elysee-
+Bourbon, in the Duchesse de Berri's house, provoked Auguste de
 Maulincour, of whom Ferragus Bourignard had complained, to a duel.
 Also, as a result of his membership in the Thirteen, Ronquerolles,
 along with Marsay, helped General de Montriveau abduct the Duchesse de
@@ -5783,9 +6050,9 @@ husband having set fire to the hut which she and the colonel were
 occupying. [Another Study of Woman.]
 
 ROUBAUD, born about 1803 was declared doctor by the Paris medical
-school, a pupil of Desplein; practiced medicine at Montegnac,
-Haute-Vienne, under Louis Philippe, small man of fair skin and very
-insipid appearance, but with gray eyes which betrayed the depth of a
+school, a pupil of Desplein; practiced medicine at Montegnac, Haute-
+Vienne, under Louis Philippe, small man of fair skin and very insipid
+appearance, but with gray eyes which betrayed the depth of a
 physiologist and the tenacity of a student. Roubaud was introduced to
 Madame Graslin by the Cure Bonnet, who was in despair at Roubaud's
 religious indifference. The young physician admired and secretly loved
@@ -5799,8 +6066,8 @@ Republic; born in 1737; died in 1805; married the most beautiful girl
 of the city, whom, it is said, he made very unhappy. He had by her two
 children: a son, Jean-Jacques; and, ten years later, a daughter,
 Agathe, who became Madame Bridau. The birth of this daughter brought
-about a rupture between the doctor and his intimate friend, the
-sub-delegate Lousteau, whom Rouget, doubtless wrongly, accused of being
+about a rupture between the doctor and his intimate friend, the sub-
+delegate Lousteau, whom Rouget, doubtless wrongly, accused of being
 the girl's father. Each of these men charged the other with being the
 father of Maxence Gilet, who was in reality the son of a dragoon
 officer, stationed at Bourges. Doctor Rouget, who passed for a very
@@ -5881,8 +6148,8 @@ real estate, and is supposed to have left his fortune to his niece,
 the Comtesse Clementine Laginska. [The Imaginary Mistress. Ursule
 Mirouet.]
 
-ROUZEAU, an Angouleme printer, predecessor and master of
-Jerome-Nicolas Sechard, in the eighteenth century. [Lost Illusions.]
+ROUZEAU, an Angouleme printer, predecessor and master of Jerome-
+Nicolas Sechard, in the eighteenth century. [Lost Illusions.]
 
 RUBEMPRE (Lucien-Chardon de), born in 1800 at Angouleme; son of
 Chardon, a surgeon in the armies of the Republic who became an
@@ -5915,8 +6182,8 @@ Madame de Bargeton, then the wife of Comte Sixte du Chatelet, prefect
 of Charente and a state councilor. Despite the warm reception given
 him, first by a laudatory article in a local newspaper, and next by a
 serenade from his young fellow-citizens, he left Angouleme hastily,
-desperate at having been responsible for the ruin of his brother-in-law,
-David Sechard, and contemplating suicide. While walking along he
+desperate at having been responsible for the ruin of his brother-in-
+law, David Sechard, and contemplating suicide. While walking along he
 chanced upon Canon Carlos Herrera (Jacques Collin--Vautrin), who took
 him to Paris and became the guardian of his future career. In 1824,
 while passing an evening at the theatre Porte-Saint-Martin, Rubempre
@@ -5942,8 +6209,8 @@ same name, in a lodging-house on rue Charlot, in another on rue de la
 Lune in company with Coralie, in a little apartment on rue Cassette
 with Jacques Collin, who followed him at least to one of his two
 houses on the Quai Malaquais and on rue Taitbout, the former home of
-Beaudenord and of Caroline de Bellefeuille. He is buried in
-Pere-Lachaise in a costly tomb which contains also the body of Esther
+Beaudenord and of Caroline de Bellefeuille. He is buried in Pere-
+Lachaise in a costly tomb which contains also the body of Esther
 Gobseck, and in which there is a place reserved for Jacques Collin. A
 series of articles, sharp and pointed, on Rubempre is entitled "Les
 Passants de Paris."
@@ -5969,7 +6236,7 @@ RUSTICOLI. (See La Palferine.)
 
 
 
-                                  S
+S
 
 SABATIER, police-agent; Corentin regretted not having had his
 assistance in the search with Peyrade, at Gondreville, in 1803. [The
@@ -5996,8 +6263,8 @@ follow her platonic friend away from Venice after the murder of
 Sagredo. [Facino Cane.]
 
 SAILLARD, a clerk of mediocre talent in the Department of Finance,
-during the reigns of Louis XVIII. and of Charles X.; formerly
-book-keeper at the Treasury, where he is believed to have succeeded the
+during the reigns of Louis XVIII. and of Charles X.; formerly book-
+keeper at the Treasury, where he is believed to have succeeded the
 elder Poiret;[*] he was afterwards appointed chief cashier, and held
 that position a long while. Saillard married Mademoiselle Bidault, a
 daughter of a furniture merchant, whose establishment was under the
@@ -6432,10 +6699,10 @@ benefit. [A Daughter of Eve.] Schmucke was also instructor of Lydie
 Peyrade before her marriage with Theodose de la Peyrade. [Scenes from
 a Courtesan's Life]; but those whom he regarded as his favorite pupils
 were Mesdames de Vandenesse and du Tillet, and the future Vicomtesse
-de Portenduere, Mademoiselle Mirouet of Nemours, the three
-"Saint-Cecilias" who combined to pay him an annuity. [Ursule Mirouet.]
-The former precentor, now of ugly and aged appearance, readily obtained
-a welcome with the principals of boarding-schools for young ladies. At a
+de Portenduere, Mademoiselle Mirouet of Nemours, the three "Saint-
+Cecilias" who combined to pay him an annuity. [Ursule Mirouet.] The
+former precentor, now of ugly and aged appearance, readily obtained a
+welcome with the principals of boarding-schools for young ladies. At a
 distribution of prizes he was brought in contact with Sylvain Pons for
 whom he immediately felt an affection that proved to be mutual (1834).
 Their intimacy brought them under the same roof, rue de Normandie, as
@@ -6583,7 +6850,7 @@ business. [Eugenie Grandet.]
 SERIZY, or Serisy (Comte Hugret de), born in 1765, descended in direct
 line from the famous President Hugret, ennobled under Francois I. The
 motto of this family was "I, semper melius eris," so that the final
-_s_ of _melius_, the word _eris_, and the _I_ of the beginning,
+/s/ of /melius/, the word /eris/, and the /I/ of the beginning,
 represented the name (Serizy) of the estate that had been made a
 county. A son of a first president of Parliament (who died in 1794),
 Serizy was himself, as early as 1787, a member of the Grand Council;
@@ -6677,10 +6944,10 @@ mother at the age of thirteen; having had to testify in the Court of
 Assizes against Jean-Francois Durut, she made of him a formidable
 enemy, and fell into the power of Jacques Collin, who promised to
 shelter her from the resentment of the convict. She was at one time a
-ballet-girl, and afterwards served as Esther van Gobseck's
-chamber-maid, under the names of Eugenie and Europe; was the mistress
-of Paccard, whom she very probably married afterwards; aided Vautrin
-in fooling Nucingen and getting money from him. [Scenes from a
+ballet-girl, and afterwards served as Esther van Gobseck's chamber-
+maid, under the names of Eugenie and Europe; was the mistress of
+Paccard, whom she very probably married afterwards; aided Vautrin in
+fooling Nucingen and getting money from him. [Scenes from a
 Courtesan's Life.]
 
 SERVIN, born about 1775, a distinguished painter, made a love-match
@@ -6717,8 +6984,8 @@ the year 1817, succeeded his cousin, Francois Gaubertin, in the
 administration of Aigues, General de Montcornet's estate, in
 Bourgogne. Sibilet had married Mademoiselle Adeline Sarcus (of the
 poor branch), who bore him two children in three years; his selfish
-interest and his personal obligations led him to gratify the
-ill-feeling of his predecessor, by being disloyal to Montcornet. [The
+interest and his personal obligations led him to gratify the ill-
+feeling of his predecessor, by being disloyal to Montcornet. [The
 Peasantry.]
 
 SIBILET (Madame Adolphe), wife of the preceding, born Adeline Sarcus,
@@ -6741,8 +7008,8 @@ notary at Ville-aux-Fayes, to whom he was the appointed successor.
 [The Peasantry.]
 
 SIBILET, son of the court clerk, and clerk in the Department of Public
-Lands, presumptive successor of the registrar of documents at
-Ville-aux-Fayes. [The Peasantry.]
+Lands, presumptive successor of the registrar of documents at Ville-
+aux-Fayes. [The Peasantry.]
 
 SIBILET (Mademoiselle), daughter of the court clerk, born about 1807,
 postmistress at Ville-aux Fayes; betrothed to Captain Corbinet,
@@ -6786,9 +7053,9 @@ Troyes during the Terror; Michu's father-in-law presided over the
 Revolutionary tribunal that passed the death-sentence. [The
 Gondreville Mystery.]
 
-SIMEUSE (Marquise de), wife of the preceding, born Berthe de
-Cinq-Cygne, was executed at Troyes at the same time with her husband.
-[The Gondreville Mystery.]
+SIMEUSE (Marquise de), wife of the preceding, born Berthe de Cinq-
+Cygne, was executed at Troyes at the same time with her husband. [The
+Gondreville Mystery.]
 
 SIMEUSE (Paul-Marie and Marie-Paul), twin sons of the preceding
 couple, born in 1773; grandsons on the father's side of the admiral
@@ -6978,17 +7245,16 @@ Birotteau, to which she was invited. She was buried in Montmartre
 cemetery. [At the Sign of the Cat and Racket. Cesar Birotteau.]
 
 SONET, marble-worker and contractor for tombstones, at Paris, during
-the Restoraton and Louis Philippe's reign. When Pons died, the
-marble-worker sent his agent to Schmucke to solicit an order for
-statues of Art and Friendship grouped together. Sonet had the
-draughtsman Vitelot as partner. The firm name was Sonet & Co. [Cousin
-Pons.]
+the Restoraton and Louis Philippe's reign. When Pons died, the marble-
+worker sent his agent to Schmucke to solicit an order for statues of
+Art and Friendship grouped together. Sonet had the draughtsman Vitelot
+as partner. The firm name was Sonet & Co. [Cousin Pons.]
 
 SONET (Madame), wife of the preceding, knew how to lavish attentions
-no less zealous than selfish on W. Schmucke, when he returned,
-broken-hearted, from Pere-Lachaise, in April, 1845, and suggested to
-him, with some modifications however, to take certain allegorical
-monuments which the families of Marsay and Keller had formerly refused,
+no less zealous than selfish on W. Schmucke, when he returned, broken-
+hearted, from Pere-Lachaise, in April, 1845, and suggested to him,
+with some modifications however, to take certain allegorical monuments
+which the families of Marsay and Keller had formerly refused,
 preferring to apply to a genuine artist, the sculptor Stidmann.
 [Cousin Pons.]
 
@@ -7059,16 +7325,16 @@ father-in-law, the old gendarme kept as his mistress, under the same
 roof with his wife, his servant Jeannette, who was younger than Madame
 Soudry. [The Peasantry.]
 
-SOUDRY (Madame), wife of the preceding, born Cochet in 1763.
-Lady's-maid to Sophie Laguerre, Montcornet's predecessor at Aigues,
-she had an understanding with Francois Gaubertin, the steward of the
-estate, to make a victim of the former opera singer. Twenty days
-after the burial of her mistress, La Cochet married the brigadier,
-Soudry, a superb specimen of manhood, though pitted with small-pox.
-During the reign of Louis XVIII., Madame Soudry, who tried awkwardly
-enough to imitate her late mistress, Sophie Laguerre, reigned supreme
-in the society of Soulanges, in her parlor which was the meeting
-ground of Montcornet's enemies. [The Peasantry.]
+SOUDRY (Madame), wife of the preceding, born Cochet in 1763. Lady's-
+maid to Sophie Laguerre, Montcornet's predecessor at Aigues, she had
+an understanding with Francois Gaubertin, the steward of the estate,
+to make a victim of the former opera singer. Twenty days after the
+burial of her mistress, La Cochet married the brigadier, Soudry, a
+superb specimen of manhood, though pitted with small-pox. During the
+reign of Louis XVIII., Madame Soudry, who tried awkwardly enough to
+imitate her late mistress, Sophie Laguerre, reigned supreme in the
+society of Soulanges, in her parlor which was the meeting ground of
+Montcornet's enemies. [The Peasantry.]
 
 SOUDRY, natural son of Soudry, the brigadier of gendarmes; legitimized
 at the time of his father's marriage to Mademoiselle Cochet, in 1815.
@@ -7184,7 +7450,7 @@ Valentin, at the suggestion of Planchette, professor of mechanics.
 
 SPONDE (Abbe de), born about 1746, was grand vicar of the bishopric of
 Seez. Maternal uncle, guardian, guest, and boarder of Madame du
-Bousquier--_nee_ Cormon--of Alencon; he died in 1819, almost blind,
+Bousquier--/nee/ Cormon--of Alencon; he died in 1819, almost blind,
 and strangely depressed by his niece's recent marriage. Entirely
 removed from worldly interests, he led an ascetic life, and an
 uneventful one, entirely consumed in thoughts of salvation,
@@ -7230,9 +7496,9 @@ Provincial at Paris.]
 STEIBELT, a famous musician, during the Empire was the instructor of
 Felicite des Touches at Nantes. [Beatrix.]
 
-STEINBOCK (Count Wenceslas), born at Prelie (Livonia) in 1809;
-great-nephew of one of Charles XII.'s generals. An exile from his youth,
-he went to Paris to live, and, from inclination as much as on account of
+STEINBOCK (Count Wenceslas), born at Prelie (Livonia) in 1809; great-
+nephew of one of Charles XII.'s generals. An exile from his youth, he
+went to Paris to live, and, from inclination as much as on account of
 his poverty, he became a carver and sculptor. As assistant to Francois
 Souchet, a fellow-countryman of Laginski's, Wenceslas Steinbock worked
 on the decorations of the Pole's mansion, on the rue de la Pepiniere.
@@ -7331,22 +7597,22 @@ SUZANNET was, with the Abbe Vernal, the Comte de Fontaine, and M. de
 Chatillon, one of the four Vendean chiefs at the time of the uprising
 in the West in 1799. [The Chouans.]
 
-SUZETTE, during the first years of Louis XVIII.'s reign, was
-lady's-maid to Antoinette de Langeais, in Paris, about the time that
-the duchess was receiving attentions from Montriveau. [The Thirteen.]
+SUZETTE, during the first years of Louis XVIII.'s reign, was lady's-
+maid to Antoinette de Langeais, in Paris, about the time that the
+duchess was receiving attentions from Montriveau. [The Thirteen.]
 
 SUZON was for a long time valet de chambre for Maxime de Trailles. [A
 Man of Business. The Member for Arcis.]
 
-SYLVIE, cook for Madame Vauquer, the widow, on the rue
-Neuve-Saint-Genevieve, during the years 1819 and 1820, at the time
-when Jean-Joachim Goriot, Eugene de Rastignac, Jacques Collin,
-Horace Bianchon, the Poirets, Madame Couture, and Victorine Taillefer
-boarded there. [Father Goriot.]
+SYLVIE, cook for Madame Vauquer, the widow, on the rue Neuve-Saint-
+Genevieve, during the years 1819 and 1820, at the time when Jean-
+Joachim Goriot, Eugene de Rastignac, Jacques Collin, Horace Bianchon,
+the Poirets, Madame Couture, and Victorine Taillefer boarded there.
+[Father Goriot.]
 
 
 
-                                  T
+T
 
 TABAREAU, bailiff of the justice of the peace in the eighth ward of
 Paris in 1844-1845. He was on good terms with Fraisier, the business
@@ -7424,8 +7690,8 @@ the duel being instigated by Jacques Collin, in the interest of Eugene
 de Rastignac, though the latter knew nothing of the matter. [Father
 Goriot.]
 
-TAILLEFER (Victorine), sister of the preceding, and daughter of
-Jean-Frederic Taillefer by his first wife; a distant cousin of Madame
+TAILLEFER (Victorine), sister of the preceding, and daughter of Jean-
+Frederic Taillefer by his first wife; a distant cousin of Madame
 Couture; her mother having died in 1819, she wrongfully passed in her
 father's opinion for "the child of adulterous connections"; was turned
 away from her father's house, and sought protection with her
@@ -7475,9 +7741,9 @@ his daughter and Bourlac. [The Seamy Side of History.]
 
 TASCHERON, a very upright farmer, in a small way, in the market town
 of Montegnac, nine leagues distant from Limoges; left his village in
-August, 1829, immediately after the execution of his son,
-Jean-Francois. With his wife, parents, children and grandchildren,
-he sailed for America, where he prospered and founded the town of
+August, 1829, immediately after the execution of his son, Jean-
+Francois. With his wife, parents, children and grandchildren, he
+sailed for America, where he prospered and founded the town of
 Tascheronville in the State of Ohio. [The Country Parson.]
 
 TASCHERON (Jean-Francois), one of the sons of the preceding, born
@@ -7532,9 +7798,9 @@ THERESE, lady's-maid to Madame de Rochefide in the latter part of
 Charles X.'s reign, and during the reign of Louis Philippe. [Beatrix.]
 
 THERESE (Sister), the name under which Antoinette de Langeais died,
-after she had taken the veil, and retired to the convent of
-bare-footed Carmelites on an island belonging to Spain, probably the
-island of Leon. [The Thirteen.]
+after she had taken the veil, and retired to the convent of bare-
+footed Carmelites on an island belonging to Spain, probably the island
+of Leon. [The Thirteen.]
 
 THIBON (Baron), chief of the Comptoir d'Escompte, in 1818, had been a
 colleague of Cesar Birotteau, the perfumer. [Cesar Birotteau.]
@@ -7593,11 +7859,11 @@ The Middle Classes.]
 
 THUILLIER (Marie-Jeanne-Brigitte), daughter of the preceding, born in
 1787, of independent disposition and of obstinate will, chose the
-single state to become, as it were, the ambitious mother of
-Louis-Jerome, a brother younger than herself by four years. She began
-life by making coin-bags at the Bank of France, then engaged in
-money-lending; took every advantage of her debtors, among others Fleury,
-her father's colleague at the Treasury. Being now rich, she met the
+single state to become, as it were, the ambitious mother of Louis-
+Jerome, a brother younger than herself by four years. She began life
+by making coin-bags at the Bank of France, then engaged in money-
+lending; took every advantage of her debtors, among others Fleury, her
+father's colleague at the Treasury. Being now rich, she met the
 Lempruns and the Galards; took upon herself the management of the
 small fortune of their heir, Celeste Lemprum, whom she had selected
 specially to be the wife of her brother; after their marriage she
@@ -7623,14 +7889,14 @@ of their relations was born Celeste Colleville--Madame Felix Phellion.
 Having been deputy-chief for two years (since January 5, 1828), he
 left the Treasury at the outbreak of the Revolution of 1830. In him
 the office lost an expert in equivocal jests. Having left the
-department, Thuillier turned his energies in another direction.
-Marie-Jeanne-Brigette, his elder sister, turning him to the intricacies
-of real estate, made him leave their lodging-place on the rue
+department, Thuillier turned his energies in another direction. Marie-
+Jeanne-Brigette, his elder sister, turning him to the intricacies of
+real estate, made him leave their lodging-place on the rue
 d'Argenteuil, to purchase a house on the rue Saint-Dominique-d'Enfer,
 which had formerly belonged to President Lecamus and to Petitot, the
-artist. Thuillier's conceit and vanity, now that he had become a
-well-known and important citizen, were greatly flattered when Theodose
-de la Peyrade hired apartments from him. M. Thuillier was manager of the
+artist. Thuillier's conceit and vanity, now that he had become a well-
+known and important citizen, were greatly flattered when Theodose de
+la Peyrade hired apartments from him. M. Thuillier was manager of the
 "Echo de la Bievre," signed a certain pamphlet on political economy,
 was candidate for the Chamber of Deputies, purchased a second house,
 in 1840, on the Place de la Madeleine, and was chosen to succeed J.-J.
@@ -7640,13 +7906,13 @@ Clerks. The Middle Classes.]
 THUILLIER (Madame), wife of the preceding; born Celeste Lemprun, in
 1794; only daughter of the oldest messenger in the Bank of France,
 and, on her mother's side, granddaughter od Galard, a well-to-do
-truck-gardener of Auteuil; a transparent blonde, slender,
-sweet-tempered, religious, and barren. In her married life, Madame
-Thuillier was swayed beneath the despotism of her sister-in-law,
-Marie-Jeanne-Brigitte, but derived some consolation from the
-affection of Celeste Colleville, and, about 1841, contributed as far
-as her influence permitted, to the marriage of this her god-daughter.
-[The Middle Classes.]
+truck-gardener of Auteuil; a transparent blonde, slender, sweet-
+tempered, religious, and barren. In her married life, Madame Thuillier
+was swayed beneath the despotism of her sister-in-law, Marie-Jeanne-
+Brigitte, but derived some consolation from the affection of Celeste
+Colleville, and, about 1841, contributed as far as her influence
+permitted, to the marriage of this her god-daughter. [The Middle
+Classes.]
 
 TIENNETTE, born in 1769, a Breton who wore her native costume, was, in
 1829, the devoted servant of Madame de Portenduere the elder, on the
@@ -7719,9 +7985,9 @@ Ferdinand du Tillet, elaborated by the brilliant pen of Jules
 Claretie, in "Le Temps" of September 5, 1884, under title of "Life in
 Paris."
 
-TILLET (Madame Ferdinand du), wife of the preceding, born Marie-Eugenie
-de Granville in 1814, one of the four children of the Comte and
-Comtesse de Granville, and younger sister of Madame Felix de
+TILLET (Madame Ferdinand du), wife of the preceding, born Marie-
+Eugenie de Granville in 1814, one of the four children of the Comte
+and Comtesse de Granville, and younger sister of Madame Felix de
 Vandenesse; a blonde like her mother; in her marriage, which took
 place in 1831, was a renewal of the griefs that had sobered the years
 of her youth. Eugenie du Tillet's natural playfulness of spirit could
@@ -7784,9 +8050,9 @@ studio of Servin, the artist; she was there "the malicious oracle" of
 the Liberal party, and, with Laure, took sides with Ginevra di Piombo
 against Amelie Thirion, leader of the aristocratic group. [The
 Vendetta.] Clever, pretty, coquettish, correct, and a real Parisian,
-and protected by Madame Roguin's lover, Ferdinand du Tillet,
-Mathilde-Melanie Tiphaine reigned supreme in Provins, in the midst of
-the Guenee family, represented by Mesdames Galardon, Lessourd, Martener,
+and protected by Madame Roguin's lover, Ferdinand du Tillet, Mathilde-
+Melanie Tiphaine reigned supreme in Provins, in the midst of the
+Guenee family, represented by Mesdames Galardon, Lessourd, Martener,
 and Auffray; took in, or, rather, defended Pierrette Lorrain; and
 overwhelmed the Rogron salon with her spirit of raillery. [Pierrette.]
 
@@ -7921,12 +8187,12 @@ TOPINARD (Madame Rosalie), wife of the preceding, born about 1815,
 called Lolotte; she was a member of the choir under the direction of
 Felix Gaudissart's predecessor, whose mistress she was. A victim of
 her lover's failure, she became box-opener of the first tier, and also
-quite a dealer in costumes during the following administration
-(1834-1845). She had first lived as Topinard's mistress, but he
-afterwards married her; she had three children by him. She took part
-in the funeral mass of Pons; when Schmucke was taken in by her husband
-in the Cite Bordin, she nursed the musician in his last illness.
-[Cousin Pons.]
+quite a dealer in costumes during the following administration (1834-
+1845). She had first lived as Topinard's mistress, but he afterwards
+married her; she had three children by him. She took part in the
+funeral mass of Pons; when Schmucke was taken in by her husband in the
+Cite Bordin, she nursed the musician in his last illness. [Cousin
+Pons.]
 
 TOPINARD, eldest son of the preceding couple, was a supernumerary in
 Gaudissart's company. [Cousin Pons.]
@@ -7974,8 +8240,8 @@ in literature with two volumes of dramatic works, after the fashion of
 Lope de Vega and Shakespeare, which produced a sort of artistic
 revolution. She then assumed as a permanent appellation, the pseudonym
 of Camille Maupin, and led a bright and independent life. Her income
-of eighty thousand livres, her castle of Les Touches, near Guerande
---Loire-Inferieure--her Parisian mansion on the rue de Mont-Blanc--now
+of eighty thousand livres, her castle of Les Touches, near Guerande--
+Loire-Inferieure--her Parisian mansion on the rue de Mont-Blanc--now
 rue de la Chaussee-d'Antin,--her birth, and her connections, had their
 power of influence. Her irregularities were covered as with a veil, in
 consideration of her genius. Indeed, Mademoiselle des Touches had more
@@ -7995,9 +8261,9 @@ another vaudeville play, in which Coralie was to have made the
 principal role. When the young actress took to her bed and died, which
 occurred under the Poirson-Cerfberr[+] management, Felicite paid the
 expenses of her burial, and was present at the funeral services, which
-were conducted at Notre-Dame de Bonne-Nouvelle. She gave dinner-parties
-on Wednesdays; Levasseur, Conti, Mesdames Pasta, Conti, Fodor, De
-Bargeton, and d'Espard, attended her receptions. [A Distinguished
+were conducted at Notre-Dame de Bonne-Nouvelle. She gave dinner-
+parties on Wednesdays; Levasseur, Conti, Mesdames Pasta, Conti, Fodor,
+De Bargeton, and d'Espard, attended her receptions. [A Distinguished
 Provincial at Paris.] Although a Legitimist, like the Marquise
 d'Espard, Felicite, after the Revolution of July, kept her salon open,
 where were frequently assembled her neighbor Leontine de Serizy, Lord
@@ -8069,8 +8335,8 @@ of arduous labor; he was imprisoned, about 1828, probably for debts.
 [The Commission in Lunacy.]
 
 TOUPINET (Madame), wife of the preceding; known under the name
-Pomponne; kept a fruit-stand; lived, in 1828, on the rue du
-Petit-Banquier, Paris; unhappy in her married life; obtained from the
+Pomponne; kept a fruit-stand; lived, in 1828, on the rue du Petit-
+Banquier, Paris; unhappy in her married life; obtained from the
 charitable J.-J. Popinot, under the name of a loan, ten francs for
 purchasing stock. [The Commission in Lunacy.]
 
@@ -8111,14 +8377,14 @@ father's death. Through the machinations of Tours-Minieres she was
 brought into contact with Charles-Amedee-Louis-Joseph Rifoel,
 Chevalier du Vissard, became his mistress, and took the field for him
 in the Royalist cause, in the department of Orne, in 1809. Betrayed by
-her husband, she was executed in 1810, in accordance with a
-death-sentence of the court presided over by Mergi, Bourlac being
-attorney-general. [The Seamy Side of History.]
+her husband, she was executed in 1810, in accordance with a death-
+sentence of the court presided over by Mergi, Bourlac being attorney-
+general. [The Seamy Side of History.]
 
 TRAILLES (Comte Maxime de), born in 1791, belonged to a family that
 was descended from an attendant to Louis XI., and raised to the
 nobility by Francois I. This perfect example of the Parisian
-_condottieri_ made his beginning in the early part of the nineteenth
+/condottieri/ made his beginning in the early part of the nineteenth
 century as a page to Napoleon. Being loved, in turn, by Sarah Gobseck
 and Anastasie de Restaud, Maxime de Trailles, himself already ruined,
 ruined both of these; gaming was his master passion, and his caprices
@@ -8129,13 +8395,13 @@ against Desire Minoret, but for the latter's death by accident.
 [Ursule Mirouet.] His ready wit usually saved him from the throng of
 creditors that swarmed about him, but even thus he once paid a debt
 due Cerizet, in spite of himself. Maxime de Trailles, at that time,
-was keeping, in a modest way, Antonia Chocardelle, who had a
-news-stand on the rue Coquenard, near the rue Pigalle, on which
-Trailles lived; and, at the same time, a certain Hortense, a protegee
-of Lord Dudley, was seconding the genius of that excellent comedian,
-Cerizet. [A Man of Business. The Member for Arcis.] The dominant party
-of the Restoration accused Maxime de Trailles of being a Bonapartist,
-and rebuked him for his shameless corruption of life; but the citizen
+was keeping, in a modest way, Antonia Chocardelle, who had a news-
+stand on the rue Coquenard, near the rue Pigalle, on which Trailles
+lived; and, at the same time, a certain Hortense, a protegee of Lord
+Dudley, was seconding the genius of that excellent comedian, Cerizet.
+[A Man of Business. The Member for Arcis.] The dominant party of the
+Restoration accused Maxime de Trailles of being a Bonapartist, and
+rebuked him for his shameless corruption of life; but the citizen
 monarchy extended him a cordial welcome. Marsay was the chief promoter
 of the count's fortunes; he moulded him, and sent him on delicate
 political missions, which he managed with marvelous success. [The
@@ -8184,10 +8450,10 @@ in possession of the country until the second return of the Bourbons.
 
 TROGNON (Maitre), a Parisian notary, wholly at the disposal of his
 neighbor, Maitre Fraisier; during the years 1844-1845 he lived on the
-rue Saint-Louis-au-Marais--now rue de Turenne--and reached the
-death-bed of Sylvain Pons before his colleague, Maitre Leopold
-Hannequin, though the latter actually received the musician's last
-wishes. [Cousin Pons.]
+rue Saint-Louis-au-Marais--now rue de Turenne--and reached the death-
+bed of Sylvain Pons before his colleague, Maitre Leopold Hannequin,
+though the latter actually received the musician's last wishes.
+[Cousin Pons.]
 
 TROISVILLE (Guibelin, Vicomte de), whose name is pronounced Treville,
 and who, as well as his numerous family, bore simply the name Guibelin
@@ -8237,9 +8503,9 @@ with the Cinq-Cygnes, the Hauteserres, the Cadignans, the
 Maufrigneuses, and Daniel d'Arthez, who were more or less concerned in
 the matter of the Champagne elections. [The Member for Arcis.]
 
-TROUSSENARD (Doctor), a physician of Havre, during the Restoration,
-at the time that the Mignon de la Bastie family lived in that
-sub-prefecture of the Seine-Inferieure. [Modeste Mignon.]
+TROUSSENARD (Doctor), a physician of Havre, during the Restoration, at
+the time that the Mignon de la Bastie family lived in that sub-
+prefecture of the Seine-Inferieure. [Modeste Mignon.]
 
 TRUDON, in 1818, a grocer of Paris, in the same quarter as Cesar
 Birotteau, whom he furnished, on December 17th of that year, with
@@ -8277,7 +8543,7 @@ on the rue de la Ville-l'Eveque. [Cousin Betty.]
 
 
 
-                                  U
+U
 
 URBAIN, servant of Soudry, mayor of Soulanges, Bourgogne, during the
 Restoration; was at one time a cavalry soldier, who entered into the
@@ -8309,8 +8575,8 @@ Parson.]
 URSULE, from Picardie, very large; cook employed by Ragon, perfumer on
 rue Saint-Honore, Paris, towards the end of the eighteenth century;
 about 1793 she took in hand the amorous education of Cesar Birotteau,
-the little Tourraine peasant just employed by the Ragons as errand-boy.
-Ill-natured, wanton, wheedling, dishonest, selfish and given to
+the little Tourraine peasant just employed by the Ragons as errand-
+boy. Ill-natured, wanton, wheedling, dishonest, selfish and given to
 drink, Ursule did not suit the candid Cesar, whom she abandoned,
 moreover, two years later, for a young Picardie rebel, who owned a few
 acres of land. He found concealment in Paris, and let her marry him.
@@ -8328,42 +8594,41 @@ of a Princess.]
 
 
 
-                                  V
+V
 
-VAILLANT (Madame), wife of a cabinet-maker in the Faubourg
-Saint-Antoine; mother of three children. In 1819 and 1820, for forty
-sous per month, she kept house for a young author,[*] who lived in a
-garret in rue Lesdiguieres. She utilized her remaining time in turning
-the crank for a mechanic, and received only ten sous a day for this
-hard work. This woman and her husband were perfectly upright. At the
+VAILLANT (Madame), wife of a cabinet-maker in the Faubourg Saint-
+Antoine; mother of three children. In 1819 and 1820, for forty sous
+per month, she kept house for a young author,[*] who lived in a garret
+in rue Lesdiguieres. She utilized her remaining time in turning the
+crank for a mechanic, and received only ten sous a day for this hard
+work. This woman and her husband were perfectly upright. At the
 wedding of Madame Vaillant's sister, the young writer became
-acquainted with Pere Canet--Facino Cane--clarinetist at the
-Quinze-Vingts--who told him his strange story. [Facino Cane.] In 1818,
-Madame Vaillant, already aged, kept house for Claude-Joseph Pillerault,
-the former Republican, on rue des Bourdonnais. The old merchant was
-good to his servant and did not let her shine his shoes. [Cesar
-Birotteau.]
+acquainted with Pere Canet--Facino Cane--clarinetist at the Quinze-
+Vingts--who told him his strange story. [Facino Cane.] In 1818, Madame
+Vaillant, already aged, kept house for Claude-Joseph Pillerault, the
+former Republican, on rue des Bourdonnais. The old merchant was good
+to his servant and did not let her shine his shoes. [Cesar Birotteau.]
 
 [*] Honore de Balzac. He employed Madame Vaillant as a servant.
 
 VALDES (Paquita), born in the West Indies about 1793, daughter of a
 slave bought in Georgia on account of her great beauty; lived in the
 early part of the Restoration and during the Hundred Days in Hotel
-San-Real, rue Saint-Lazare, Paris, with her mother and her
-foster-father, Christemio. In April, 1815, in the Jardin des Tuileries,
-she was met by Henri de Marsay, who loved her. She agreed to receive
-him secretly in her own home. She gave up everything for his sake, but
-in a transport of love, she cried out from force of habit: "O
-Mariquita!" This put her lover in such a fury that he tried to kill
-her. Not being able to do this, he returned, accompanied by some other
-members of "The Thirteen," only to find Paquita murdered; for, the
-Marquise de San-Real, Marsay's own sister, who was very jealous of the
-favors granted the man by this girl, has slashed her savagely with a
-dagger. Having been kept in retirement since she was twelve years old,
-Paquita Valdes knew neither how to read nor to write. She spoke only
-English and Spanish. On account of the peculiar color of her eyes she
-was known as "the girl with the golden eyes," by some young men, one
-of whom was Paul de Manerville, who had noticed her during his
+San-Real, rue Saint-Lazare, Paris, with her mother and her foster-
+father, Christemio. In April, 1815, in the Jardin des Tuileries, she
+was met by Henri de Marsay, who loved her. She agreed to receive him
+secretly in her own home. She gave up everything for his sake, but in
+a transport of love, she cried out from force of habit: "O Mariquita!"
+This put her lover in such a fury that he tried to kill her. Not being
+able to do this, he returned, accompanied by some other members of
+"The Thirteen," only to find Paquita murdered; for, the Marquise de
+San-Real, Marsay's own sister, who was very jealous of the favors
+granted the man by this girl, has slashed her savagely with a dagger.
+Having been kept in retirement since she was twelve years old, Paquita
+Valdes knew neither how to read nor to write. She spoke only English
+and Spanish. On account of the peculiar color of her eyes she was
+known as "the girl with the golden eyes," by some young men, one of
+whom was Paul de Manerville, who had noticed her during his
 promenades. [The Thirteen.]
 
 VALDEZ, a Spanish admiral, constitutional minister of King Ferdinand
@@ -8510,9 +8775,9 @@ learning that M. Longueville, on whom she had centred her affections,
 was only a merchant. [The Ball at Sceaux.] Madame de Kergarouet
 scorned her nephew by marriage, Savinien de Portenduere, who courted
 her. [Ursule Mirouet.] Having become a widow, she married the Marquis
-de Vandenesse. A little later she endeavored to overthrow her
-sister-in-law, the Comtesse Felix de Vandenesse, then in love with
-Raoul Nathan. [A Daughter of Eve.]
+de Vandenesse. A little later she endeavored to overthrow her sister-
+in-law, the Comtesse Felix de Vandenesse, then in love with Raoul
+Nathan. [A Daughter of Eve.]
 
 VANDENESSE (Comte Felix de), brother-in-law of the preceding, born
 late in the eighteenth century, bore the title of vicomte until the
@@ -8526,15 +8791,15 @@ that his platonic liaison with Madame de Mortsauf began--a union which
 occupied an important place in his life. He was, moreover, the lover
 of Lady Arabelle Dudley, who called him familiarly Amedee, pronounced
 "my dee." Madame de Mortsauf, having died, he was subjected to the
-secret hatred of her daughter Madeleine, later Madame de
-Lenoncourt-Givry-Chaulieu. About this time began his career in public
-life. During the "Hundred Days" Louis XVIII. entrusted to him a
-mission in Vendee. The King received him into favor, and finally
-employed him as private secretary. He was also appointed master of
-petitions in the State Council. Vandenesse frequently visited the
-Lenoncourts. He excited admiration, mingled with envy, in the mind of
-Lucien de Rubempre, who had recently arrived in Paris. Acting for the
-King, he helped Cesar Birotteau. He was acquainted with the Prince de
+secret hatred of her daughter Madeleine, later Madame de Lenoncourt-
+Givry-Chaulieu. About this time began his career in public life.
+During the "Hundred Days" Louis XVIII. entrusted to him a mission in
+Vendee. The King received him into favor, and finally employed him as
+private secretary. He was also appointed master of petitions in the
+State Council. Vandenesse frequently visited the Lenoncourts. He
+excited admiration, mingled with envy, in the mind of Lucien de
+Rubempre, who had recently arrived in Paris. Acting for the King, he
+helped Cesar Birotteau. He was acquainted with the Prince de
 Talleyrand, and asked of him information about Macumer, for Louise de
 Chaulieu. [The Lily of the Valley. Lost Illusions. A Distinguished
 Provincial at Paris. Cesar Birotteau. Letters of Two Brides.] After
@@ -8564,19 +8829,19 @@ Nathan, but was kept from harm by her husband's skilful management.
 [The Secrets of a Princess. Another Study of Woman. The Gondreville
 Mystery. A Daughter of Eve.]
 
-VANDENESSE (Comtesse Felix de), wife of the preceding; born
-Angelique-Marie de Granville in 1808; a brunette like her father. In
-bearing the cruel treatment of her prejudiced mother, in the Marais
-house, where she spent her youth, the Comtesse Felix was consoled by
-the tender affection of a younger sister, Marie-Eugenie, later Madame
-F. du Tillet. The lessons in harmony given them by Wilhelm Schmucke
-afforded them some diversion. Married about 1828, and dowered
-handsomely, to the detriment of Marie-Eugenie, she underwent, when
-about twenty-five years old, a critical experience. Although mother of
-at least one child, becoming suddenly of a romantic turn of mind, she
-narrowly escaped becoming the victim of a worldly conspiracy formed
-against her by Lady Dudley and by Mesdames Charles de Vandenesse and
-de Manerville. Marie, moved by the strength of her passion for the
+VANDENESSE (Comtesse Felix de), wife of the preceding; born Angelique-
+Marie de Granville in 1808; a brunette like her father. In bearing the
+cruel treatment of her prejudiced mother, in the Marais house, where
+she spent her youth, the Comtesse Felix was consoled by the tender
+affection of a younger sister, Marie-Eugenie, later Madame F. du
+Tillet. The lessons in harmony given them by Wilhelm Schmucke afforded
+them some diversion. Married about 1828, and dowered handsomely, to
+the detriment of Marie-Eugenie, she underwent, when about twenty-five
+years old, a critical experience. Although mother of at least one
+child, becoming suddenly of a romantic turn of mind, she narrowly
+escaped becoming the victim of a worldly conspiracy formed against her
+by Lady Dudley and by Mesdames Charles de Vandenesse and de
+Manerville. Marie, moved by the strength of her passion for the
 writer, Raoul Nathan, and wishing to save him from financial trouble,
 appealed to the good offices of Madame de Nucingen and to the devotion
 of Schmucke. The proof furnished to her by her husband of the debasing
@@ -8588,10 +8853,10 @@ presence of Madame de la Baudraye, Lousteau's mistress. [The Muse of
 the Department.]
 
 VANDENESSE (Alfred de), son of the Marquis Charles de Vandenesse, a
-coxcomb who, under the reign of Louis Philippe, at the Faubourg
-Saint-Germain, compromised the reputation of the Comtesse de
-Saint-Hereen, despite the presence of her mother, Madame d'Aiglemont,
-the former mistress of the marquis. [A Woman of Thirty.]
+coxcomb who, under the reign of Louis Philippe, at the Faubourg Saint-
+Germain, compromised the reputation of the Comtesse de Saint-Hereen,
+despite the presence of her mother, Madame d'Aiglemont, the former
+mistress of the marquis. [A Woman of Thirty.]
 
 VANDIERES (General, Comte de), old, feeble and childish, when, with
 his wife and a large number of soldiers, November 29, 1812, he started
@@ -8607,9 +8872,9 @@ husband all the dangers, and managed to cross the Beresina with her
 lover's aid, although she was unable to rejoin him. She wandered for a
 long time in northern or eastern Europe. Having become insane, she
 could say nothing but the word "Farewell"! She was found later at
-Strasbourg by the grenadier, Fleuriot. Having been taken to the
-Bons-Hommes near the Isle-Adam, she was attended by Fanjat. She there
-had as a companion an idiot by the name of Genevieve. In September, 1819,
+Strasbourg by the grenadier, Fleuriot. Having been taken to the Bons-
+Hommes near the Isle-Adam, she was attended by Fanjat. She there had
+as a companion an idiot by the name of Genevieve. In September, 1819,
 Stephanie again saw Philippe de Sucy, but did not recognize him. She
 died not far from Saint-Germain-en-Laye, January, 1820, soon after the
 reproduction of the scene on the Beresina, arranged by her lover. Her
@@ -8637,8 +8902,8 @@ Piombo. [The Vendetta.]
 
 VANNIER, patriot, conscript of Fougeres, Bretagne, during the autumn
 of 1799 received an order to convey marching orders to the National
-Guard of his city--a body of men who were destined to aid the
-Seventy-second demi-brigade in its engagements with the Chouans. [The
+Guard of his city--a body of men who were destined to aid the Seventy-
+second demi-brigade in its engagements with the Chouans. [The
 Chouans.]
 
 VARESE (Emilio Memmi, Prince of), of the Cane-Memmis, born in 1797, a
@@ -8675,8 +8940,8 @@ Louis Philippe, where she met with him the Gambaras and helped them in
 their poverty. [Massimilla Doni. Gambara.]
 
 VARLET, an Arcis physician, early in the nineteenth century, at the
-time of the political and local quarrels of the Gondrevilles,
-Cinq-Cygnes, Simeuses, Michus, and Hauteserres; had a daughter who
+time of the political and local quarrels of the Gondrevilles, Cinq-
+Cygnes, Simeuses, Michus, and Hauteserres; had a daughter who
 afterwards became Madame Grevin. [The Gondreville Mystery. The Member
 for Arcis.]
 
@@ -8714,10 +8979,10 @@ satisfaction, he opposed Albert Savarus, the rival of the elder
 Chavoncourt, in his candidacy for a seat in the Chamber of Deputies.
 [Albert Savarus.]
 
-VAUDOYER, a peasant of Ronquerolles, Bourgogne, appointed
-forest-keeper of Blangy, but discharged about 1821, in favor of Groison,
-by Montcornet, at that time mayor of the commune; supported G. Rigou
-and F. Gaubertin as against the new owner of Aigues. [The Peasantry.]
+VAUDOYER, a peasant of Ronquerolles, Bourgogne, appointed forest-
+keeper of Blangy, but discharged about 1821, in favor of Groison, by
+Montcornet, at that time mayor of the commune; supported G. Rigou and
+F. Gaubertin as against the new owner of Aigues. [The Peasantry.]
 
 VAUDREMONT (Comtesse de), born in 1787; being a wealthy widow of
 twenty-two years in 1809, she was considered the most beautiful
@@ -8734,10 +8999,10 @@ Madame de Vaudremont's death followed shortly after this incident,
 which brought about the reconciliation of the Soulanges couple, urged
 by the Duchesse de Lansac; the countess perished in the famous fire
 that broke out at the Austrian embassy during the party given on the
-occasion of the wedding of the Emperor and the Arch-duchess
-Marie-Louise. [Domestic Peace.] The embassy was located on the part
-of the rue de la Chaussee-d'Antin (at that time rue du Mont-Blanc)
-comprised between the rue de la Victoire and the rue Saint-Lazare.
+occasion of the wedding of the Emperor and the Arch-duchess Marie-
+Louise. [Domestic Peace.] The embassy was located on the part of the
+rue de la Chaussee-d'Antin (at that time rue du Mont-Blanc) comprised
+between the rue de la Victoire and the rue Saint-Lazare.
 
 VAUMERLAND (Baronne de), a friend of Madame de l'Ambermesnil's,
 boarded with one of Madame Vauquer's rivals in the Marais, and
@@ -8808,9 +9073,9 @@ VAUTRIN,[*] the most famous of Jacques Collin's assumed names.
 [*] On March 14, 1840, a Parisian theatre, the Porte-Saint-Martin,
     presented a play in which the famous convict was a principal
     character. Although Frederic Lemaitre took the leading role, the
-    play was presented only once. In April, 1868, however, the
-    Ambigu-Comique revived it, with Frederic Lemaitre again in the
-    leading role.
+    play was presented only once. In April, 1868, however, the Ambigu-
+    Comique revived it, with Frederic Lemaitre again in the leading
+    role.
 
 VAUVINET, born about 1817, a money-lender of Paris, was of the elegant
 modern type, altogether different from Chaboisseau-Gobseck; he made
@@ -8856,8 +9121,8 @@ friends. [Facino Cane. Massimilla Doni.]
 VERGNIAUD (Louis), who made the Egyptian campaign with Hyacinthe
 Chabert and Luigi Porta, was quartermaster of hussars when he left the
 service. During the Restoration he was, in turn, cow-keeper on the rue
-du Petit-Banquier, keeper of a livery-stable, and cabman. As
-cow-keeper, Vergniaud, having a wife and three sons, being in debt to
+du Petit-Banquier, keeper of a livery-stable, and cabman. As cow-
+keeper, Vergniaud, having a wife and three sons, being in debt to
 Grados, and giving too generously to Chabert, ended in insolvency;
 even then he aided Luigi Porta, again in trouble, and was his witness
 when that Corsican married Mademoiselle di Piombo. Louis Vergniaud,
@@ -8963,7 +9228,7 @@ nineteenth century. [The Lily of the Valley.]
 VERNEUIL (Marie-Nathalie de).[*] (See Montauran, Marquise Alphonse
 de.)
 
-[*] On June 23, 1837, under the title of _Le Gars_, the Ambigu-Comique
+[*] On June 23, 1837, under the title of /Le Gars/, the Ambigu-Comique
     presented a drama of Antony Beraud's in five acts and six
     tableaux, which was a modified reproduction of the adventures of
     Marie-Nathalie de Montauran.
@@ -9002,9 +9267,9 @@ VERNON (Marechal) father of the Duc de Vissembourg and the Prince
 Chiavari. [Beatrix.]
 
 VERNOU (Felicien), a Parisian journalist. He used his influence in
-starting Marie Godeschal, usually called Mariette, at the Porte
-Saint-Martin. The husband of an ugly, vulgar, and crabbed woman, he had
-by her children that were by no means welcome. He lived in wretched
+starting Marie Godeschal, usually called Mariette, at the Porte Saint-
+Martin. The husband of an ugly, vulgar, and crabbed woman, he had by
+her children that were by no means welcome. He lived in wretched
 lodgings on the rue Mandar, when Lucien de Rubempre was presented to
 him. Vernou was a caustic critic on the side of the oppositon. The
 uncongeniality of his domestic life embittered his character and his
@@ -9024,11 +9289,11 @@ Paris.]
 
 VERT (Michel-Jean-Jerome), nick-named Vermichel, formerly violinist in
 the Bourgogne regiment, was occupied, during the Restoration, with the
-various callings of fiddler, door-keeper of the Hotel de Ville,
-drum-beater of Soulanges, jailer of the local prison, and finally
-bailiff's deputy in the service of Brunet. He was intimate friend of
-Fourchon, with whom he was in the habit of getting on sprees, and whose
-hatred for the Montcornets, owners of Aigues, he shared. [The Peasantry.]
+various callings of fiddler, door-keeper of the Hotel de Ville, drum-
+beater of Soulanges, jailer of the local prison, and finally bailiff's
+deputy in the service of Brunet. He was intimate friend of Fourchon,
+with whom he was in the habit of getting on sprees, and whose hatred
+for the Montcornets, owners of Aigues, he shared. [The Peasantry.]
 
 VERT (Madame Michel), wife of the preceding, commonly called
 Vermichel, as was the case with her husband; a mustached virago, a
@@ -9109,8 +9374,8 @@ with the eunuch, believing him to be a woman. At a later period, Vien
 made for Madame de Lantry a copy of the statue modeled by Sarrasine
 after Zambinella, and it was from this picture of Vien's that Girodet,
 the signer of "Endymion," received his inspiration. This statue of
-Sarrasine's was, long afterwards, reproduced by the sculptor
-Dorlange-Sallenauve. [Sarrasine. The Member for Arcis.]
+Sarrasine's was, long afterwards, reproduced by the sculptor Dorlange-
+Sallenauve. [Sarrasine. The Member for Arcis.]
 
 VIEUX-CHAPEAU, a soldier in the Seventy-second demi-brigade; was
 killed in an engagement with the Chouans, in September, 1799. [The
@@ -9245,9 +9510,9 @@ local opposition, with the aid of Goraud, he succeeded in making use
 of Denis Rogron, a wealthy retired merchant, established the "Courrier
 de Provins," a Liberalist paper, adroitly defended the Rogrons against
 the charge of killing Pierrette Lorrain by slow degrees, was elected
-to the Chamber of Deputies about 1830, and became also
-attorney-general, and probably minister of justice. [Pierrette. The
-Member for Arcis. The Middle Classes. Cousin Pons.]
+to the Chamber of Deputies about 1830, and became also attorney-
+general, and probably minister of justice. [Pierrette. The Member for
+Arcis. The Middle Classes. Cousin Pons.]
 
 VINET (Madame), wife of the preceding, born Chargeboeuf, and therefore
 one of the descendants of the "noble family of La Brie, a name derived
@@ -9292,11 +9557,10 @@ Arcis.]
 VIRGINIE, cook in the household of Cesar Birotteau, the perfumer, in
 1818. [Cesar Birotteau.]
 
-VIRGINIE, during the years 1835-1836, lady's maid, on the rue
-Neuve-des-Mathurins (at present rue des Mathurins), Paris, to
-Marie-Eugenie du Tillet, who was at that time engrossed in righting
-the imprudent conduct of Angelique-Marie de Vandenesse. [A Daughter
-of Eve.]
+VIRGINIE, during the years 1835-1836, lady's maid, on the rue Neuve-
+des-Mathurins (at present rue des Mathurins), Paris, to Marie-Eugenie
+du Tillet, who was at that time engrossed in righting the imprudent
+conduct of Angelique-Marie de Vandenesse. [A Daughter of Eve.]
 
 VIRGINIE, mistress of a Provencal soldier, who, at a later period,
 during Bonaparte's campaign in Egypt, was lost for some time in a
@@ -9312,8 +9576,8 @@ Distinguished Provincial at Paris.]
 VIRLAZ, a rich furrier of Leipsic, from whom his nephew, Frederic
 Brunner, inherited, about the middle of Louis-Philippe's reign. In his
 lifetime this Jew, head of the house of Virlaz & Co., had the fortune
-of Madame Brunner (first of the name) placed in the coffers of the
-Al-Sartchild bank. [Cousin Pons.]
+of Madame Brunner (first of the name) placed in the coffers of the Al-
+Sartchild bank. [Cousin Pons.]
 
 VISSARD (Marquis du), in memory of his younger brother, the Chevalier
 Rifoel du Vissard, was created a peer of France by Louis XVIII., who
@@ -9393,10 +9657,10 @@ she had by him a son, Henry. To legitimize this child she arranged a
 marriage with Marsay, a bankrupt old gentleman of tarnished
 reputation. He demanded payment of the interest on a hundred thousand
 francs as a reward for his marriage, and he died without having known
-his wife. The widow of Marsay became by her second marriage the
-well-known Marquise de Vordac. She neglected her duties as mother
-until late in life, and paid no attention to Henri de Marsay except
-to propose Miss Stevens as a suitable wife for him. [The Thirteen.]
+his wife. The widow of Marsay became by her second marriage the well-
+known Marquise de Vordac. She neglected her duties as mother until
+late in life, and paid no attention to Henri de Marsay except to
+propose Miss Stevens as a suitable wife for him. [The Thirteen.]
 
 VULPATO (La), noble Venetian, very frequently present in Fenice; about
 1820 tried to interest Emilio Memmi, Prince of Varese, and Massimilla
@@ -9411,7 +9675,7 @@ Pepiniere, on Passage du Soleil, to-day called Galerie de Cherbourg.
 
 
 
-                                  W
+W
 
 WADMANN, an Englishman who owned, near the Marville estate in
 Normandie, a cottage and pasture-lands, which Madame Camusot de
@@ -9420,13 +9684,13 @@ England after twenty years' sojourn in France. [Cousin Pons.]
 
 WAHLENFER or WALHENFER, wealthy German merchant who was murdered at
 the "Red Inn," near Andenach, Rhenish Prussia, October, 1799. The deed
-was done by Jean-Frederic Taillefer, then a surgeon and
-under-assistant-major in the French army, who suffered his comrade,
-Prosper Magnan, to be executed for the crime. Wahlenfer was a short,
-heavy-set man of rotund appearance, with frank and cordial manners. He
-was proprietor of a large pin-manufactory on the outskirts of Neuwied.
-He was from Aix-la-Chapelle. Possibly Wahlenfer was an assumed name.
-[The Red Inn.]
+was done by Jean-Frederic Taillefer, then a surgeon and under-
+assistant-major in the French army, who suffered his comrade, Prosper
+Magnan, to be executed for the crime. Wahlenfer was a short, heavy-set
+man of rotund appearance, with frank and cordial manners. He was
+proprietor of a large pin-manufactory on the outskirts of Neuwied. He
+was from Aix-la-Chapelle. Possibly Wahlenfer was an assumed name. [The
+Red Inn.]
 
 WALLENROD-TUSTALL-BARTENSTILD (Baron de), born in 1742, banker at
 Frankfort-on-the-Main; married in 1804, his only daughter, Bettina, to
@@ -9527,7 +9791,7 @@ countenance, large head which was bald, eyes like tongues of fire, a
 large mustache. His calmness of manner frightened Madame Balthazar
 Claes.[*] [The Quest of the Absolute.]
 
-[*] Under the title of _Gold, or the Dream of a Savant_, there is a
+[*] Under the title of /Gold, or the Dream of a Savant/, there is a
     play by Bayard and Bieville, which presents the misfortunes of the
     Claes. This was given at the Gymnase, November 11, 1837, by M.
     Bouffe and Madame E. Sauvage, both of whom are still alive.
@@ -9576,7 +9840,7 @@ WITSCHNAU. (See Gaudin.)
 
 
 
-                                  X
+X
 
 XIMEUSE, fief situated in Lorraine; original spelling of the name
 Simeuse, which came to to be written with an S on account of its
@@ -9584,7 +9848,7 @@ pronunciation. [The Gondreville Mystery.]
 
 
 
-                                  Y
+Y
 
 YSEMBOURG (Prince d'), marshal of France, the Conde of the Republic.
 Madame Nourrisson, his confidential servant, looked upon him as a
@@ -9598,7 +9862,7 @@ Lora, Bixiou, and Gazonal. [The Unconscious Humorists.]
 
 
 
-                                  Z
+Z
 
 ZAMBINELLA, a eunuch, who sang at the Theatre Argentina, Rome, the
 leading soprano parts; he was very beautiful. Sarassine, a French
@@ -9625,18 +9889,18 @@ Marbeuf, of which Doctor Halpersohn occupied the other floor in 1836.
 
 NOTE.
 
-The _Repertory of the Comedie Humaine_, as the reader can see for
+The /Repertory of the Comedie Humaine/, as the reader can see for
 himself, should include only those episodes introducing characters
 inter-related and continually recurring. Consequently, the stories
-entitled _The Exiles_, _About Catherine de Medici_, _Maitre
-Cornelius_, _The Unknown Masterpiece_, _The Elixir of Life_, _Christ
-in Flanders_, which antedate the eighteenth century, and _Seraphita_,
+entitled /The Exiles/, /About Catherine de Medici/, /Maitre
+Cornelius/, /The Unknown Masterpiece/, /The Elixir of Life/, /Christ
+in Flanders/, which antedate the eighteenth century, and /Seraphita/,
 which deals with the supernatural, are omitted, together with the
-_Analytical Studies_. But _The Hated Son_ furnishes some indispensable
-information concerning a few biographies. The _Dramas_ are outside the
-action of the _Comedie_, so contribute no names.
+/Analytical Studies/. But /The Hated Son/ furnishes some indispensable
+information concerning a few biographies. The /Dramas/ are outside the
+action of the /Comedie/, so contribute no names.
 
-According to Theophile Gautier, _The Comedie Humaine_ embraces two
+According to Theophile Gautier, /The Comedie Humaine/ embraces two
 thousand characters. His reckoning is nearly exact; but as a result of
 cross-references, surnames, assumed names and the like, that number is
 far exceeded in this work, which, nevertheless, omits many characters
@@ -9651,365 +9915,5 @@ Thiers, Villele, Rossini, Rousseau, Mlle. Dejazet, Mlle. Georges, etc.
 
 
 
-End of the Project Gutenberg EBook of Repertory Of The Comedie Humaine, Part
-II, L -- Z, by Anatole Cerfberr and Jules François Christophe
+End of Project Gutenberg Etext of Repertory of the Comedie Humaine Pt 1
 
-*** END OF THIS PROJECT GUTENBERG EBOOK REPERTORY THE COMEDIE HUMAINE, L- Z ***
-
-***** This file should be named 2469.txt or 2469.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/4/6/2469/
-
-Produced by Dagny; and Emma Dudding, and John Bickers
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
